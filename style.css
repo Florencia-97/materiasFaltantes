@@ -1,0 +1,124 @@
+body {
+  border: 10px black;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.search-form {
+      max-width:400px;
+      margin:10px;
+    }
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.sugerencias li {
+      background:white;
+      list-style:none;
+      border-bottom: 1px solid #D8D8D8;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
+      margin:0;
+      padding:20px;
+      transition:background 0.2s;
+      display:flex;
+      justify-content:space-between;
+      text-transform: capitalize;
+}
+
+.materias{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #999;
+  width: 70%;
+  margin: auto;
+}
+
+.plan {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.materia{
+  border: 0.9px solid #999;
+  padding: 5px;
+  background: #7ed6df;
+}
+
+.materia:hover {
+    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.5);
+}
+
+.elegirMateria:hover {
+    box-shadow: inset 0 0 100px 100px rgba(240, 235, 255, 0.5);
+}
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+input {
+    align-items:center;
+    border: 2px solid orange;
+    -webkit-box-shadow:
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1);
+    -moz-box-shadow:
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1);
+    box-shadow:
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1);
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
+
+h2 {
+  font-size: 28px;
+  margin-left: 10px;
+  text-align: center;
+
+}
+
+/* COLOR DE LOS DEPARTAMENTOS */
+.matematica{
+  background: #e74c3c;
+}
+
+.computacion{
+  background: #2ecc71;
+}
+
+.fisica{
+  background: #f1c40f;
+}
+
+.opcionales{
+  background: #1abc9c;
+}
+
+.quimica{
+  background: #DDDDDD;
+}
