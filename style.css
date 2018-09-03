@@ -10,6 +10,11 @@ form {
   text-align: left;
 }
 
+h5 {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
 .search-form {
       max-width:400px;
       margin:10px;
