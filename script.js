@@ -49,7 +49,6 @@ function agregarMateriasIniciales(){
     return noPoseeCorrelativa(materia)
   });
   const html = sinCorrelativas.map(sinCorrelativa => {
-    materiasDisponiblesCodigo.push(sinCorrelativa.codigo);
     materiasDisponibles.push(sinCorrelativa);
     return `
       <div class="materia ${sinCorrelativa.departamento}" id="${sinCorrelativa.materia}" onclick="agregarMateriaRealizada(this)">
@@ -98,7 +97,7 @@ function agregarMateriaRealizada(element){
 function displayMateriasRealizadas(){
   const html = materiasRealizadas.map(materia => {
     return `
-      <div class="materia ${materia.departamento}">
+      <div class="materia ${materia.departamento}" id="${materia.materia}" onclick="removerMateriaRealizada(this)">
         ${materia.materia}
       </div>
     `;
@@ -125,6 +124,26 @@ function actualizarMateriasDisponibles(){
   });
   materiasDisponibles = materiasNuevas;
   }
+
+function removerMateriaRealizada(elem){
+  var nomMateria = elem.id;
+  materiasRealizadas = materiasRealizadas.filter(materia => {
+    return materia.materia != nomMateria;
+  });
+  var codigo = "";
+  for(var i = 0 ; i < materias.length ; i++){
+    if (materias[i].materia == nomMateria){
+      codigo = materias[i].codigo;
+    }
+  }
+  materiasRealizadasCodigo = materiasRealizadasCodigo.filter(materiaCod =>{
+    return materiaCod != codigo;
+  });
+  actualizarMateriasDisponibles()
+  displayMateriasDisponibles()
+  displayMateriasRealizadas()
+}
+
 
 function tieneMateriasNecesarias(asignatura){
   if(materiasRealizadasCodigo.join().includes(asignatura.codigo)){
