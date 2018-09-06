@@ -14,8 +14,6 @@ function start(){
     .then(blob => blob.json())
     .then(data => materias.push(...data));
 
-    const searchInput = document.querySelector('.search')
-    searchInput.addEventListener('keyup', mostrarOpciones);
 }
 
 
@@ -41,7 +39,6 @@ function agregarMateriasIniciales(){
   //Esto dps lo cambio cuando agrego más materias
   document.getElementById('seleccionarCarrera').innerHTML = 'Ingeniería Informática'
   var sugerencias = document.querySelector('.sugerencias');
-  sugerencias.innerHTML = "";
   var realizadas = document.querySelector('.realizadas');
   realizadas.innerHTML = "";
 
@@ -90,7 +87,6 @@ function agregarMateriaRealizada(element){
     displayMateriasRealizadas();
     displayMateriasDisponibles();
     var sugerencias = document.querySelector('.sugerencias');
-    sugerencias.innerHTML = "";
   }
 }
 
