@@ -49,6 +49,10 @@ h5 {
     box-shadow: inset 0 0 100px 100px rgba(240, 235, 255, 0.5);
 }
 
+.titulo{
+  margin-top: 35px;
+}
+
 
 hr {
     display: block;
@@ -101,5 +105,17 @@ h2 {
 }
 
 .quimica{
-  background: #DDDDDD;
+  background: #b8e994;
+}
+
+.gestion_industrial{
+  background: #786fa6;
+}
+
+.sistemas_distribuidos{
+  background: #f8c291;
+}
+
+.sistemas_produccion{
+  background: #487eb0;
 }
