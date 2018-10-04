@@ -102,7 +102,7 @@ function displayMateriasRealizadas(){
   }).join('');
   var realizadas = document.querySelector('.realizadas');
   realizadas.innerHTML = html;
-  document.getElementById('creditos').innerHTML = "Créditos :" + creditos;
+  document.getElementById('creditos').innerHTML = "Créditos : " + creditos;
 }
 
 function displayMateriasDisponibles(){
