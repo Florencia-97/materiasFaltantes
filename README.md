@@ -1,7 +1,7 @@
 # Materias faltantes
 
 Nunca te preguntaste que podías cursar con las materias que ya tenías metidas? O cuantos créditos tenías y ver si te recibias antes de los 30 ?
-Por ahora, únicamente para la carrera de Ingeniería en Informática de la Facultad de Ingenieria (FIUBA), eso es posible!
+Por ahora, unicamente para la carrera de Ingeniería en Informática de la Facultad de Ingenieria (FIUBA), eso es posible!
 
 https://florencia-97.github.io/materiasFaltantes/
 
