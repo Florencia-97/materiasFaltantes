@@ -8,7 +8,7 @@ var materiasRealizadas = [];
 document.onload = start
 
 function start(){
-  const endpoint = 'https://gist.githubusercontent.com/Florencia-97/e5a7e230bfffb28bf73283d3e4338d25/raw/217cfe773e14d65f1c49a7e4a823bb471d64c1b9/materias.json';
+  const endpoint = 'https://gist.githubusercontent.com/Florencia-97/e5a7e230bfffb28bf73283d3e4338d25/raw/033ad11eff8eb8350e2a4e69531fff09849bd189/materias.json';
 
   fetch(endpoint)
     .then(blob => blob.json())
@@ -91,7 +91,9 @@ function agregarMateriaRealizada(element){
 }
 
 function displayMateriasRealizadas(){
+  var creditos = 0;
   const html = materiasRealizadas.map(materia => {
+    creditos += materia.creditos;
     return `
       <div class="materia ${materia.departamento}" id="${materia.materia}" onclick="removerMateriaRealizada(this)">
         ${materia.materia}
@@ -100,6 +102,7 @@ function displayMateriasRealizadas(){
   }).join('');
   var realizadas = document.querySelector('.realizadas');
   realizadas.innerHTML = html;
+  document.getElementById('creditos').innerHTML = "Créditos :" + creditos;
 }
 
 function displayMateriasDisponibles(){
