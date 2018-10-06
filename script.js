@@ -8,7 +8,7 @@ var materiasRealizadas = [];
 document.onload = start
 
 function start(){
-  const endpoint = 'https://gist.githubusercontent.com/Florencia-97/e5a7e230bfffb28bf73283d3e4338d25/raw/033ad11eff8eb8350e2a4e69531fff09849bd189/materias.json';
+  const endpoint = 'materiasInformatica.json';
 
   fetch(endpoint)
     .then(blob => blob.json())

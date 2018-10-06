@@ -1,0 +1,339 @@
+[
+    {
+        "materia": "Análisis Matemático 2",
+        "departamento": "matematica",
+        "codigo":  "61.03",
+        "creditos": 8,
+        "correlativas": ""
+    },
+    {
+        "materia": "Análisis Matemático 3",
+        "departamento": "matematica",
+         "codigo":  "61.10",
+        "creditos": 6,
+        "correlativas": "61.03 61.08"
+
+    },
+    {
+        "materia": "Álgebra 2",
+        "departamento": "matematica",
+        "codigo":  "61.08",
+        "creditos": 8,
+        "correlativas": ""
+    },
+    {
+        "materia": "Probabilidad y Estadística B",
+        "departamento": "matematica",
+        "codigo":  "61.09",
+        "creditos": 6,
+        "correlativas": "61.03 61.08"
+    },
+    {
+        "materia": "Fisica 1",
+        "departamento": "fisica",
+        "codigo":  "62.01",
+        "creditos": 8,
+        "correlativas": ""
+    },
+    {
+        "materia": "Fisica 2 A",
+        "departamento": "fisica",
+        "codigo":  "62.03",
+        "creditos": 8,
+        "correlativas": "62.01 61.03"
+    },
+    {
+        "materia": "Fisica III  D",
+        "departamento": "fisica",
+        "codigo":  "62.15",
+        "creditos": 6,
+        "correlativas": "61.08 62.03 63.01"
+    },
+    {
+        "materia": "Laboratorio",
+        "departamento": "fisica",
+        "codigo":  "66.02",
+        "creditos": 6,
+        "correlativas": "61.08 62.03 63.01"
+    },
+    {
+        "materia": "Estructura Económica Argentina",
+        "departamento": "opcionales",
+        "codigo":  "71.18",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Discreta",
+        "departamento": "opcionales",
+        "codigo":  "61.07",
+        "creditos": 6,
+        "correlativas": ""
+    },
+    {
+        "materia": "Teoría de Algoritmos 1",
+        "departamento": "opcionales",
+        "codigo":  "61.29",
+        "creditos": 6,
+        "correlativas": "61.07 75.41 "
+    },
+    {
+        "materia": "Ecuaciones Diferenciales Ordinarias",
+        "departamento": "opcionales",
+        "codigo":  "61.18",
+        "creditos": 6,
+        "correlativas": "61.03 61.08"
+    },
+    {
+        "materia": "Análisis Funcional",
+        "departamento": "opcionales",
+        "codigo":  "61.19",
+        "creditos": 6,
+        "correlativas": "61.10"
+    },
+    {
+        "materia": "Mecánica Racional",
+        "departamento": "opcionales",
+        "codigo":  "61.11",
+        "creditos": 4,
+        "correlativas": "61.10 62.01"
+    },
+    {
+        "materia": "Teoría de Leguaje",
+        "departamento": "opcionales",
+        "codigo":  "75.31",
+        "creditos": 4,
+        "correlativas": "75.41"
+    },
+    {
+        "materia": "Algoritmos y Programación 1",
+        "departamento": "computacion",
+        "codigo":  "75.41",
+        "creditos": 6,
+        "correlativas": ""
+    },
+    {
+        "materia": "Algoritmos y Programación 2",
+        "departamento": "computacion",
+        "codigo":  "75.40",
+        "creditos": 6,
+        "correlativas": "75.41"
+    },
+    {
+        "materia": "Algoritmos y Programación 3",
+        "departamento": "computacion",
+        "codigo":  "75.07",
+        "creditos": 6,
+        "correlativas": "75.40"
+    },
+    {
+        "materia": "Análisis Numérico",
+        "departamento": "computacion",
+        "codigo":  "75.12",
+        "creditos": 6,
+        "correlativas": "61.03 61.08 75.41"
+    },
+    {
+        "materia": "Estructura del Computador",
+        "departamento": "computacion",
+        "codigo":  "66.70",
+        "creditos": 6,
+        "correlativas": "61.08 62.03 75.41"
+    },
+    {
+        "materia": "Organizacion de Computadoras",
+        "departamento": "computacion",
+        "codigo":  "66.20",
+        "creditos": 6,
+        "correlativas": "66.02 66.70"
+    },
+    {
+        "materia": "Organizacion de Datos",
+        "departamento": "computacion",
+        "codigo":  "75.06",
+        "creditos": 6,
+        "correlativas": "66.70 75.41"
+    },
+    {
+        "materia": "Taller de Programacion 1",
+        "departamento": "computacion",
+        "codigo":  "75.42",
+        "creditos": 4,
+        "correlativas": "66.70 75.12 75.41"
+    },
+    {
+        "materia": "Taller de Programacion 2",
+        "departamento": "computacion",
+        "codigo":  "75.52",
+        "creditos": 4,
+        "correlativas": "75.07 71.14 75.42"
+    },
+    {
+        "materia": "Estructura de las Organizaciones",
+        "departamento": "computacion",
+        "codigo":  "71.12",
+        "creditos": 6,
+        "correlativas": "75.06"
+    },
+    {
+        "materia": "Modelos y Optimización I",
+        "departamento": "computacion",
+        "codigo":  "71.14",
+        "creditos": 6,
+        "correlativas": "75.42 61.10 62.03 63.01"
+    },
+    {
+        "materia": "Sistemas Operativos",
+        "departamento": "computacion",
+        "codigo":  "75.08",
+        "creditos": 6,
+        "correlativas": "75.06"
+    },
+    {
+        "materia": "Análisis de la Información",
+        "departamento": "computacion",
+        "codigo":  "75.09",
+        "creditos": 6,
+        "correlativas": "75.07 75.42"
+    },
+    {
+        "materia": "Técnicas de Diseño",
+        "departamento": "computacion",
+        "codigo":  "75.10",
+        "creditos": 6,
+        "correlativas": "75.06"
+    },
+    {
+        "materia": "Base de Datos",
+        "departamento": "computacion",
+        "codigo":  "75.15",
+        "creditos": 6,
+        "correlativas": "75.06 75.09"
+    },
+    {
+        "materia": "Introducción a los Sistemas Distribuidos",
+        "departamento": "computacion",
+        "codigo":  "75.43",
+        "creditos": 6,
+        "correlativas": "66.20 62.15 75.08"
+    },
+    {
+        "materia": "Química",
+        "departamento": "quimica",
+        "codigo":  "63.01",
+        "creditos": 6,
+        "correlativas": ""
+    },
+    {
+        "materia": "Información en las Organizaciones",
+        "departamento": "gestion_industrial",
+        "codigo":  "71.13",
+        "creditos": 6,
+        "correlativas": "75.12"
+    },
+    {
+        "materia": "Administración y Control de Proyectos Informáticos I",
+        "departamento": "gestion_industrial",
+        "codigo":  "75.44",
+        "creditos": 6,
+        "correlativas": "75.12 75.10"
+    },
+    {
+        "materia": "Taller de Desarrollo de Proyectos I",
+        "departamento": "gestion_industrial",
+        "codigo":  "75.45",
+        "creditos": 6,
+        "correlativas": "75.10"
+    },
+    {
+        "materia": "Administración y Control de Proyectos Informáticos II",
+        "departamento": "gestion_industrial",
+        "codigo":  "75.46",
+        "creditos": 6,
+        "correlativas": "75.44"
+    },
+    {
+        "materia": "Taller de Desarrollo de Proyectos II",
+        "departamento": "gestion_industrial",
+        "codigo":  "75.47",
+        "creditos": 6,
+        "correlativas": "75.44 75.45"
+    },
+    {
+        "materia": "Calidad en Desarrollo de Sistemas",
+        "departamento": "gestion_industrial",
+        "codigo":  "75.48",
+        "creditos": 4,
+        "correlativas": "75.45"
+    },
+    {
+        "materia": "Análisis de Circuitos",
+        "departamento": "sistemas_distribuidos",
+        "codigo":  "66.06",
+        "creditos": 10,
+        "correlativas": "61.10 62.03"
+    },
+    {
+        "materia": "Técnicas de Programación Concurrente I",
+        "departamento": "sistemas_distribuidos",
+        "codigo":  "75.59",
+        "creditos": 6,
+        "correlativas": "75.08"
+    },
+    {
+        "materia": "Señales y Sistemas",
+        "departamento": "sistemas_distribuidos",
+        "codigo":  "66.74",
+        "creditos": 6,
+        "correlativas": "61.09 66.06"
+    },
+    {
+        "materia": "Sistemas Distribuidos I",
+        "departamento": "sistemas_distribuidos",
+        "codigo":  "75.74",
+        "creditos": 6,
+        "correlativas": "61.10 75.43 75.59"
+    },
+    {
+        "materia": "Estática y Resistencia de Materiales B",
+        "departamento": "sistemas_produccion",
+        "codigo":  "64.05",
+        "creditos": 6,
+        "correlativas": "61.03 61.08"
+    },
+    {
+        "materia": "Manufactura Integrada por Computadora (CIM) I",
+        "departamento": "sistemas_produccion",
+        "codigo":  "75.65",
+        "creditos": 6,
+        "correlativas": "75.15 75.52"
+    },
+    {
+        "materia": "Sistemas Automáticos de Diagnóstico y Detección Fallas I",
+        "departamento": "sistemas_produccion",
+        "codigo":  "75.67",
+        "creditos": 6,
+        "correlativas": "71.14"
+    },
+    {
+        "materia": "Materiales Industriales I",
+        "departamento": "sistemas_produccion",
+        "codigo":  "72.01",
+        "creditos": 6,
+        "correlativas": "63.01 64.05"
+    },
+    {
+        "materia": "Manufactura Integrada por Computadora (CIM) II",
+        "departamento": "sistemas_produccion",
+        "codigo":  "75.66",
+        "creditos": 6,
+        "correlativas": "75.65"
+    },
+    {
+        "materia": "Sistemas de Soporte para Celdas Producción Flexible",
+        "departamento": "sistemas_produccion",
+        "codigo":  "75.68",
+        "creditos": 6,
+        "correlativas": "75.65 75.67"
+    }
+]
