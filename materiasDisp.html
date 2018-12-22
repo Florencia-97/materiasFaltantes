@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Materias Faltantes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="script.js"></script>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body onload="start()">
+
+    <h2 class='titulo'>Seleccione una carrera</h2><hr/>
+
+    <div class="container">
+      <div class="dropdown btn-group">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="seleccionarCarrera" data-toggle="dropdown">Seleccionar Carrera</button>
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu">
+          <li><a onclick="agregarMateriasIniciales()">Ingenieria Informática (1986)</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Agregar materias</h2><hr/>
+    <h5>Para agregar una materia hace click en la materias disponible correspondiente, de la misma manera para quitarla</h5>
+    <h4 id="creditos">Créditos : 0</h5>
+
+    <hr/>
+    <h2 id='demo'>Materias realizadas</h2><hr/>
+    <div class='materias realizadas'></div>
+
+    <h2 id='demo'>Materias disponibles</h2>
+    <hr/>
+
+    <div class='materias disponibles'></div>
+
+    <div class='plan'>
+     <br><a  href="http://www.fi.uba.ar/sites/default/files/Ingenieria%20en%20Informatica%201986.pdf">Plan de Estudio</a>
+    </div>
+    <div class='plan'>
+      <a href="https://github.com/Florencia-97/materiasFaltantes"><img src="GitHub-Mark-32px.png" alt="repositorio">
+    </div>
+    <!-- <img src="GitHub-Mark-32px.png" alt="repositorio"> -->
+
+  </body>
+</html>

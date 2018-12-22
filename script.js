@@ -16,8 +16,6 @@ function start(){
 
 }
 
-
-
 function encontrarMateria (materiaBuscada, materias) {
   return materias.filter(asignatura => {
     const regex = new RegExp(materiaBuscada, 'gi');
