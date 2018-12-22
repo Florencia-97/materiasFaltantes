@@ -52,8 +52,16 @@ function encontrarCorrelativas(nombre){
     return correlativas;
 }
 
+
 function mostrarCorrelativas(materia){
     const correlativas = encontrarCorrelativas(materia.id);
-    console.log(correlativas);
-}
-
+    const html = correlativas.map(materia => {
+      return `
+        <div class="materia ${materia.departamento}" id="${materia.materia}">
+          ${materia.materia}
+        </div>
+      `;
+    }).join('');
+    var necesarias = document.querySelector('.materiasNecesarias');
+    necesarias.innerHTML = html;
+  }
