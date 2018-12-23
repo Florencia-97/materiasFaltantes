@@ -9,6 +9,8 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <script src="buscarMaterias.js"></script>
         <link href="style.css" rel="stylesheet" type="text/css"/>
+        <link href="home.css" rel="stylesheet" type="text/css"/>
+
     </head>
   <body onload="start()">
 
@@ -17,10 +19,14 @@
     
     <form class="search-form">
         <input type="text" class="search" placeholder="materia necesaria">
-        <ul class="sugerencias"></ul>
     </form>
 
-    <div class='materiasNecesarias'></div>
+    <div class="materias sugerencias"></div>
+
+    <h2>Materias Necesarias</h2>
+    <h4 id="eleccion"></h4>
+
+    <div class='materias necesarias'></div>
 
   </body>
 </html>

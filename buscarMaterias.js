@@ -6,6 +6,7 @@ function start(){
 
     const searchInput = document.querySelector('.search');
     searchInput.addEventListener('change', busqueda);
+    searchInput.addEventListener('keyup', busqueda);
     const endpoint = 'materiasInformatica.json';
     fetch(endpoint)
       .then(blob => blob.json())
@@ -23,15 +24,15 @@ function encontrarMateria(materiaBuscada, materias) {
 function busqueda(){
     const correlativas = encontrarMateria(this.value, materias);
     const html = correlativas.map(correlativa => {
-    return `
-      <li class="elegirMateria">
-        <span class="elegir" id="${correlativa.materia}" onclick="mostrarCorrelativas(this)" >${correlativa.materia}</span>
-      </li>
-    `;
+      return `
+        <div class="materia ${correlativa.departamento}" id="${correlativa.materia}" onclick="mostrarCorrelativas(this)">
+          ${correlativa.materia}
+        </div>
+      `;
     }).join('');
     var sugerencias = document.querySelector('.sugerencias');
     sugerencias.innerHTML = html;
-}
+}  
 
 function devolverMateria(materiaNombre){
     for (var i = 0; i < materias.length; i++){
@@ -62,6 +63,8 @@ function mostrarCorrelativas(materia){
         </div>
       `;
     }).join('');
-    var necesarias = document.querySelector('.materiasNecesarias');
+    var necesarias = document.querySelector('.necesarias');
     necesarias.innerHTML = html;
+    document.getElementById('eleccion').innerHTML = materia.id;
+
   }

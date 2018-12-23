@@ -9,4 +9,4 @@ Algo no te gusta? Por ejemplo todo el código? No pasa nada, cualquier cosa que 
 
 Si no te gustan los pull request, y solo querés informar de un problema, siempre podés crear un issue.
 
-Y sí te lo preguntabas, claro, al hacer esto, perdí tiempo en el que podría estar preparando una materia.
+Y si te lo preguntabas, claro, al hacer esto, perdí tiempo en el que podría estar preparando una materia.
