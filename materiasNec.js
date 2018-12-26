@@ -1,8 +1,6 @@
 
 var materias = [];
 
-document.onload = start
-
 function start(){
 
     const searchInput = document.querySelector('.search');
@@ -13,6 +11,8 @@ function start(){
       .then(blob => blob.json())
       .then(data => materias.push(...data));
   
+    document.getElementById('seleccionarCarrera').innerHTML = 'Ingeniería Informática'
+
 }
 
 function encontrarMateria(materiaBuscada, materias) {

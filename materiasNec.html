@@ -10,7 +10,19 @@
         <script src="materiasNec.js"></script>
         <link href="style.css" rel="stylesheet" type="text/css"/>
   </head>
-  <body onload="start()">
+  <body>
+  
+    <h2 class='titulo'>Seleccione una carrera</h2><hr/>
+
+    <div class="container">
+      <div class="dropdown btn-group">
+        <button class="btn btn-primary dropdown-toggle" type="button" id="seleccionarCarrera" data-toggle="dropdown">Seleccionar Carrera</button>
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu">
+          <li><a onclick="start()">Ingenieria Informática (1986)</a></li>
+        </ul>
+      </div>
+    </div>
 
     <h2 class='titulo'>Seleccione una materia</h2><hr/>
     
