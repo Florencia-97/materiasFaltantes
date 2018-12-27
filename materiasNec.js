@@ -16,10 +16,26 @@ function start(){
 }
 
 function encontrarMateria(materiaBuscada, materias) {
+  if (materiaBuscada.length < 3){
+    return [];
+  }
+  materiaBuscada = cadenaLimpiar(materiaBuscada)
+  const regex = new RegExp(materiaBuscada, 'gi');
     return materias.filter(materia => {
-      const regex = new RegExp(materiaBuscada, 'gi');
-      return materia.materia.match(regex)
+      materia_limpia = cadenaLimpiar(materia.materia);
+      return materia_limpia.match(regex);
     });
+}
+
+function cadenaLimpiar(cadena){
+  cadena = cadena.toLowerCase();
+  cadena = cadena.replace(/á/gi,"a");
+  cadena = cadena.replace(/é/gi,"e");
+  cadena = cadena.replace(/í/gi,"i");
+  cadena = cadena.replace(/ó/gi,"o");
+  cadena = cadena.replace(/ú/gi,"u");
+  cadena = cadena.replace(/ñ/gi,"n");
+  return cadena;
 }
 
 function busqueda(){
