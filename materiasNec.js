@@ -95,4 +95,6 @@ function mostrarInformacion(materia){
   mostrarRequeridas(encontrarRequeridas(materiaBuscada));
   document.getElementById('eleccion').innerHTML = materia.id;
   document.getElementById('creditos').innerHTML = "Creditos: " + (materiaBuscada.creditos).toString();
+  var sugerencias = document.querySelector('.sugerencias');
+  sugerencias.innerHTML = '';
 }
