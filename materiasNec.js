@@ -68,7 +68,7 @@ function encontrarRequeridas(materia){
 function mostrarCorrelativas(correlativas){
     const html = correlativas.map(materia => {
       return `
-        <div class="materia ${materia.departamento}" id="${materia.materia}">
+        <div class="materia ${materia.departamento}" id="${materia.materia}" onclick="mostrarInformacion(this)">
           ${materia.materia}
         </div>
       `;
@@ -80,7 +80,7 @@ function mostrarCorrelativas(correlativas){
 function mostrarRequeridas(correlativas){
   const html = correlativas.map(materia => {
     return `
-      <div class="materia ${materia.departamento}" id="${materia.materia}">
+      <div class="materia ${materia.departamento}" id="${materia.materia}" onclick="mostrarInformacion(this)">
         ${materia.materia}
       </div>
     `;
