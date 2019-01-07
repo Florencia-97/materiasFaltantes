@@ -1,0 +1,359 @@
+[
+	{
+		"materia":"ANALISIS MATEMATICO II A",
+		"departamento" :"matematica",
+		"codigo":"61.03",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"ALGORITMOS Y PROGRAMACION I",
+		"departamento" :"computacion",
+		"codigo":"75.40",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"ALGEBRA II A",
+		"departamento" :"matematica",
+		"codigo":"61.08",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"MATEMATICA DISCRETA",
+		"departamento" :"matematica",
+		"codigo":"61.07",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"ORGANIZACION DEL COMPUTADOR",
+		"departamento" :"computacion",
+		"codigo":"75.03",
+		"creditos":8,
+		"correlativas":"75.40"
+	},
+	{
+		"materia":"ALGORITMOS Y PROGRAMACION II",
+		"departamento" :"computacion",
+		"codigo":"75.41",
+		"creditos":6,
+		"correlativas":"75.40"
+	},
+	{
+		"materia":"PROBABILIDAD  ESTADISTICA B",
+		"departamento" :"matematica",
+		"codigo":"61.09",
+		"creditos":6,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"ESTRUCTURA DE LAS ORGANIZACIONES",
+		"departamento" :"computacion",
+		"codigo":"71.12",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"ORGANIZACION DE DATOS",
+		"departamento" :"computacion",
+		"codigo":"75.06",
+		"creditos":6,
+		"correlativas":"75.03 75.41"
+	},
+	{
+		"materia":"ALGORITMOS Y PROGRAMACION III",
+		"departamento" :"computacion",
+		"codigo":"75.07",
+		"creditos":6,
+		"correlativas":"75.41"
+	},
+	{
+		"materia":"INFORMACION EN LAS ORGANIZACIONES",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.13",
+		"creditos":6,
+		"correlativas":"71.12"
+	},
+	{
+		"materia":"SISTEMAS OPERATIVOS",
+		"departamento" :"computacion",
+		"codigo":"75.08",
+		"creditos":6,
+		"correlativas":"75.06"
+	},
+	{
+		"materia":"ANALISIS DE LA INFORMACION",
+		"departamento" :"computacion",
+		"codigo":"75.09",
+		"creditos":6,
+		"correlativas":"75.06 75.07"
+	},
+	{
+		"materia":"TALLER DE PROGRAMACION I",
+		"departamento" :"computacion",
+		"codigo":"75.42",
+		"creditos":4,
+		"correlativas":"75.03 75.41"
+	},
+	{
+		"materia":"MODELOS Y OPTIMIZACION I",
+		"departamento" :"computacion",
+		"codigo":"71.14",
+		"creditos":6,
+		"correlativas":"61.03 61.07 61.08"
+	},
+	{
+		"materia":"TECNICAS DE DISEÑO",
+		"departamento" :"computacion",
+		"codigo":"75.10",
+		"creditos":6,
+		"correlativas":"75.09"
+	},
+	{
+		"materia":"BASE DE DATOS",
+		"departamento" :"computacion",
+		"codigo":"75.15",
+		"creditos":6,
+		"correlativas":"75.09"
+	},
+	{
+		"materia":"MODELOS  OPTIMIZACION II",
+		"departamento" :"computacion",
+		"codigo":"71.15",
+		"creditos":6,
+		"correlativas":"61.09 71.14"
+	},
+	{
+		"materia":"ADMINISTRACION DE PROYECTOS",
+		"departamento" :"computacion",
+		"codigo":"71.16",
+		"creditos":6,
+		"correlativas":"71.12 71.14"
+	},
+	{
+		"materia":"IMPLANTACION DE SISTEMAS",
+		"departamento" :"computacion",
+		"codigo":"75.17",
+		"creditos":6,
+		"correlativas":"75.10"
+	},
+	{
+		"materia":"PROYECTOS INFORMATICOS",
+		"departamento" :"computacion",
+		"codigo":"75.18",
+		"creditos":6,
+		"correlativas":"71.13 71.16 75.17"
+	},
+	{
+		"materia":"DERECHO INFORMATICO",
+		"departamento" :"opcionales",
+		"codigo":"71.17",
+		"creditos":4,
+		"correlativas":"75.17"
+	},
+	{
+		"materia":"ESTRUCTURA ECONOMICA ARGENTINA",
+		"departamento" :"opcionales",
+		"codigo":"71.18",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"MODELOS Y OPTIMIZACION III",
+		"departamento" :"opcionales",
+		"codigo":"71.20",
+		"creditos":6,
+		"correlativas":"71.15"
+	},
+	{
+		"materia":"ANALISIS Y RESOLUCION DE PROBLEMAS",
+		"departamento" :"opcionales",
+		"codigo":"71.58",
+		"creditos":6,
+		"correlativas":"71.15"
+	},
+	{
+		"materia":"INGENIERIA ECONOMICA",
+		"departamento" :"opcionales",
+		"codigo":"71.46",
+		"creditos":6,
+		"correlativas":"71.13"
+	},
+	{
+		"materia":"ANALISIS NUMERICO I",
+		"departamento" :"opcionales",
+		"codigo":"75.12",
+		"creditos":6,
+		"correlativas":"61.03 61.08 75.41"
+	},
+	{
+		"materia":"LENGUAJES FORMALES",
+		"departamento" :"opcionales",
+		"codigo":"75.14",
+		"creditos":6,
+		"correlativas":"61.07"
+	},
+	{
+		"materia":"LENGUAJES DE PROGRAMACION",
+		"departamento" :"opcionales",
+		"codigo":"75.16",
+		"creditos":6,
+		"correlativas":"75.14"
+	},
+	{
+		"materia":"TEORIA DE COMUNICACION",
+		"departamento" :"opcionales",
+		"codigo":"75.19",
+		"creditos":6,
+		"correlativas":"75.08"
+	},
+	{
+		"materia":"ARQUITECTURAS Y CONFIGURACION",
+		"departamento" :"opcionales",
+		"codigo":"75.20",
+		"creditos":6,
+		"correlativas":"75.08"
+	},
+	{
+		"materia":"CONCURRENCIA",
+		"departamento" :"opcionales",
+		"codigo":"75.22",
+		"creditos":8,
+		"correlativas":"75.08"
+	},
+	{
+		"materia":"INTELIGENCIA ARTIFICIAL",
+		"departamento" :"opcionales",
+		"codigo":"75.23",
+		"creditos":6,
+		"correlativas":"75.41"
+	},
+	{
+		"materia":"TEORIA DE LA PROGRAMACION",
+		"departamento" :"opcionales",
+		"codigo":"75.24",
+		"creditos":4,
+		"correlativas":"75.41"
+	},
+	{
+		"materia":"SIMULACION",
+		"departamento" :"opcionales",
+		"codigo":"75.26",
+		"creditos":6,
+		"correlativas":"61.09"
+	},
+	{
+		"materia":"ALGORITMOS Y PROGRAMACION IV",
+		"departamento" :"opcionales",
+		"codigo":"75.27",
+		"creditos":6,
+		"correlativas":"75.07"
+	},
+	{
+		"materia":"TEORIA DE ALGORITMOS I",
+		"departamento" :"opcionales",
+		"codigo":"75.29",
+		"creditos":6,
+		"correlativas":"61.07 75.41"
+	},
+	{
+		"materia":"PRACTICA PROFESIONAL",
+		"departamento" :"opcionales",
+		"codigo":"75.32",
+		"creditos":3,
+		"correlativas":"71.13 75.10 75.15"
+	},
+	{
+		"materia":"REDES Y TELEPROCESAMIENTOS I",
+		"departamento" :"opcionales",
+		"codigo":"75.33",
+		"creditos":6,
+		"correlativas":"75.08 75.15"
+	},
+	{
+		"materia":"REDES Y TELEPROCESAMIENTOS II",
+		"departamento" :"opcionales",
+		"codigo":"75.34",
+		"creditos":6,
+		"correlativas":"75.33"
+	},
+	{
+		"materia":"SEMINARIO Y LOGICA DE BASES DE DATOS",
+		"departamento" :"opcionales",
+		"codigo":"75.36",
+		"creditos":3,
+		"correlativas":"75.15"
+	},
+	{
+		"materia":"ANALISIS NUMERICO II A",
+		"departamento" :"opcionales",
+		"codigo":"75.38",
+		"creditos":6,
+		"correlativas":"75.12"
+	},
+	{
+		"materia":"APLICACIONES INFORMATICAS",
+		"departamento" :"opcionales",
+		"codigo":"75.39",
+		"creditos":6,
+		"correlativas":"75.08 75.09"
+	},
+	{
+		"materia":"INTRODUCCION A LOS SISTEMAS INTELIGENTES",
+		"departamento" :"opcionales",
+		"codigo":"75.50",
+		"creditos":6,
+		"correlativas":"61.09 71.14"
+	},
+	{
+		"materia":"SEMINARIO DE INGENIERIA EN INFORMATICA I",
+		"departamento" :"opcionales",
+		"codigo":"75.71",
+		"creditos":3,
+		"correlativas":"75.07"
+	},
+	{
+		"materia":"SEMINARIO DE INGENIERIA EN INFORMATICA II",
+		"departamento" :"opcionales",
+		"codigo":"75.72",
+		"creditos":3,
+		"correlativas":"75.06 75.41"
+	},
+	{
+		"materia":"IDIOMA INGLES",
+		"departamento" :"opcionales",
+		"codigo":"78.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ALEMAN",
+		"departamento" :"opcionales",
+		"codigo":"78.02",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA FRANCES",
+		"departamento" :"opcionales",
+		"codigo":"78.03",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ITALIANO",
+		"departamento" :"opcionales",
+		"codigo":"78.04",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA PORTUGUES",
+		"departamento" :"opcionales",
+		"codigo":"78.05",
+		"creditos":4,
+		"correlativas":""
+	}
+]

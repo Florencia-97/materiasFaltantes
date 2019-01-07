@@ -1,0 +1,457 @@
+[
+	{
+		"materia":"ANALISIS MATEMATICO II A",
+		"departamento" :"matematica",
+		"codigo":"61.03",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA IA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.01",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"ALGEBRA II A",
+		"departamento" :"matematica",
+		"codigo":"61.08",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA II A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.03",
+		"creditos":8,
+		"correlativas":"61.03 62.01"
+	},
+	{
+		"materia":"QUIMICA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"63.01",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"MEDIOS DE REPRESENTACION B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.02",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"COMPUTACION",
+		"departamento" :"computacion",
+		"codigo":"75.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"MECANICA I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.06",
+		"creditos":6,
+		"correlativas":"61.03 61.08 62.01"
+	},
+	{
+		"materia":"ESTABILIDAD I B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"64.11",
+		"creditos":6,
+		"correlativas":"62.01 67.02"
+	},
+	{
+		"materia":"DIBUJO MECANICO",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.07",
+		"creditos":2,
+		"correlativas":"67.02"
+	},
+	{
+		"materia":"CONOCIMIENTO DE MATERIALES I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.13",
+		"creditos":6,
+		"correlativas":"63.01"
+	},
+	{
+		"materia":"ANALISIS NUMERICO I",
+		"departamento" :"computacion",
+		"codigo":"75.12",
+		"creditos":6,
+		"correlativas":"61.03 61.08 75.01"
+	},
+	{
+		"materia":"PROBABILIDAD  ESTADISTICA A",
+		"departamento" :"matematica",
+		"codigo":"61.06",
+		"creditos":4,
+		"correlativas":"61.03"
+	},
+	{
+		"materia":"ESTABILIDAD II B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"64.12",
+		"creditos":8,
+		"correlativas":"61.03 61.08 64.11 67.13"
+	},
+	{
+		"materia":"TERMODINAMICA I A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.04",
+		"creditos":8,
+		"correlativas":"61.08 62.03"
+	},
+	{
+		"materia":"ECONOMIA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.23",
+		"creditos":4,
+		"correlativas":"61.03"
+	},
+	{
+		"materia":"ARQUITECTURA NAVAL I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.01",
+		"creditos":6,
+		"correlativas":"64.11 67.02"
+	},
+	{
+		"materia":"DIBUJO PARA INGENIEROS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.39",
+		"creditos":6,
+		"correlativas":"67.07"
+	},
+	{
+		"materia":"ELECTROTECNIA GENERAL D",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.30",
+		"creditos":6,
+		"correlativas":"62.03"
+	},
+	{
+		"materia":"ELECTRONICA I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"66.04",
+		"creditos":8,
+		"correlativas":"62.03"
+	},
+	{
+		"materia":"MECANICA DE FLUIDOS B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.18",
+		"creditos":6,
+		"correlativas":"67.04"
+	},
+	{
+		"materia":"CONSTRUCCION NAVAL I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.02",
+		"creditos":6,
+		"correlativas":"73.01"
+	},
+	{
+		"materia":"ELECTRONICA II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"66.05",
+		"creditos":6,
+		"correlativas":"66.04"
+	},
+	{
+		"materia":"ARQUITECTURA NAVAL II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.03",
+		"creditos":8,
+		"correlativas":"73.01"
+	},
+	{
+		"materia":"ESTRUCTURA DE BUQUES",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.04",
+		"creditos":6,
+		"correlativas":"64.13 73.02"
+	},
+	{
+		"materia":"INTRODUCCION A MAQUINAS MARINAS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.05",
+		"creditos":6,
+		"correlativas":"67.04"
+	},
+	{
+		"materia":"PRACTICAS EN ASTILLEROS I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.40",
+		"creditos":4,
+		"correlativas":"73.01 73.02"
+	},
+	{
+		"materia":"MATEMATICA PARA INGENIEROS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"61.16",
+		"creditos":8,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"ESTABILIDAD III B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"64.13",
+		"creditos":6,
+		"correlativas":"64.12"
+	},
+	{
+		"materia":"MECANISMOS B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.12",
+		"creditos":6,
+		"correlativas":"64.12"
+	},
+	{
+		"materia":"VIBRACIONES DE ESTRUCTURAS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.06",
+		"creditos":6,
+		"correlativas":"64.13 73.07 73.12"
+	},
+	{
+		"materia":"CONSTRUCCION NAVAL II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.07",
+		"creditos":6,
+		"correlativas":"73.02"
+	},
+	{
+		"materia":"PROYECTO DE BUQUES I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.09",
+		"creditos":6,
+		"correlativas":"73.03 73.05 73.07"
+	},
+	{
+		"materia":"PROYECTO DE BUQUES II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.10",
+		"creditos":6,
+		"correlativas":"73.09"
+	},
+	{
+		"materia":"MAQUINAS MARINAS I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.11",
+		"creditos":6,
+		"correlativas":"67.04"
+	},
+	{
+		"materia":"MAQUINAS MARINAS II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.12",
+		"creditos":6,
+		"correlativas":"67.04"
+	},
+	{
+		"materia":"PRACTICAS EN ASTILLEROS II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"73.41",
+		"creditos":4,
+		"correlativas":"73.40"
+	},
+	{
+		"materia":"TESIS DE INGENIERIA NAVAL",
+		"departamento" :"TESIS",
+		"codigo":"73.00",
+		"creditos":18,
+		"correlativas":""
+	},
+	{
+		"materia":"TRABAJO PROFESIONAL DE INGENIERIA NAVAL Y MECANICA",
+		"departamento" :"TP_PROFESIONAL",
+		"codigo":"73.99",
+		"creditos":0,
+		"correlativas":""
+	},
+	{
+		"materia":"METODO DE LOS ELEMENTOS FINITOS",
+		"departamento" :"opcionales",
+		"codigo":"64.14",
+		"creditos":4,
+		"correlativas":"64.13"
+	},
+	{
+		"materia":"ESTABILIDAD IV B",
+		"departamento" :"opcionales",
+		"codigo":"64.15",
+		"creditos":6,
+		"correlativas":"64.13"
+	},
+	{
+		"materia":"ANALISIS EXPERIMENTAL DE TENSIONES",
+		"departamento" :"opcionales",
+		"codigo":"64.16",
+		"creditos":2,
+		"correlativas":"64.13"
+	},
+	{
+		"materia":"CONVERSION DE LA ENERGIA",
+		"departamento" :"opcionales",
+		"codigo":"67.23",
+		"creditos":2,
+		"correlativas":""
+	},
+	{
+		"materia":"TECNOLOGIA MECANICA B",
+		"departamento" :"opcionales",
+		"codigo":"67.38",
+		"creditos":4,
+		"correlativas":"67.02 67.13"
+	},
+	{
+		"materia":"FUNDAMENTOS MATEMATICOS DE LA VISION EN ROBOTICA",
+		"departamento" :"opcionales",
+		"codigo":"67.61",
+		"creditos":6,
+		"correlativas":"61.08 67.02"
+	},
+	{
+		"materia":"PUERTOS Y VIAS NAVEGABLES",
+		"departamento" :"opcionales",
+		"codigo":"68.03",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"PLANEAMIENTO DEL TRANSPORTE",
+		"departamento" :"opcionales",
+		"codigo":"68.08",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"INVESTIGACION OPERATIVA",
+		"departamento" :"opcionales",
+		"codigo":"71.07",
+		"creditos":8,
+		"correlativas":"71.31"
+	},
+	{
+		"materia":"ORGANIZACION DE LA PRODUCCION",
+		"departamento" :"opcionales",
+		"codigo":"71.31",
+		"creditos":6,
+		"correlativas":"73.02"
+	},
+	{
+		"materia":"GESTION PRESUPUESTARIA",
+		"departamento" :"opcionales",
+		"codigo":"71.34",
+		"creditos":4,
+		"correlativas":"71.50 71.51"
+	},
+	{
+		"materia":"GESTION DE CALIDAD",
+		"departamento" :"opcionales",
+		"codigo":"71.36",
+		"creditos":4,
+		"correlativas":"61.06 73.07"
+	},
+	{
+		"materia":"LEGISLACION GENERAL",
+		"departamento" :"opcionales",
+		"codigo":"71.38",
+		"creditos":4,
+		"correlativas":"73.07"
+	},
+	{
+		"materia":"INGENIERIA ECONOMICA I",
+		"departamento" :"opcionales",
+		"codigo":"71.50",
+		"creditos":4,
+		"correlativas":"71.31"
+	},
+	{
+		"materia":"INGENIERIA ECONOMICA II",
+		"departamento" :"opcionales",
+		"codigo":"71.51",
+		"creditos":4,
+		"correlativas":"71.50"
+	},
+	{
+		"materia":"AUTOMATIZACION INDUSTRIAL",
+		"departamento" :"opcionales",
+		"codigo":"72.06",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"NAVEGACION",
+		"departamento" :"opcionales",
+		"codigo":"73.14",
+		"creditos":4,
+		"correlativas":"73.02"
+	},
+	{
+		"materia":"MAQUINAS MARINAS III",
+		"departamento" :"opcionales",
+		"codigo":"73.15",
+		"creditos":6,
+		"correlativas":"73.05 73.11 73.12"
+	},
+	{
+		"materia":"CONSTRUCCION NAVAL III",
+		"departamento" :"opcionales",
+		"codigo":"73.16",
+		"creditos":6,
+		"correlativas":"73.07"
+	},
+	{
+		"materia":"HIGIENE Y SEGURIDAD DEL TRABAJO",
+		"departamento" :"opcionales",
+		"codigo":"77.01",
+		"creditos":4,
+		"correlativas":"73.02"
+	},
+	{
+		"materia":"INTRODUCCION A LA INGENIERIA AMBIENTAL",
+		"departamento" :"opcionales",
+		"codigo":"77.02",
+		"creditos":4,
+		"correlativas":"73.09"
+	},
+	{
+		"materia":"IDIOMA INGLES",
+		"departamento" :"opcionales",
+		"codigo":"78.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ALEMAN",
+		"departamento" :"opcionales",
+		"codigo":"78.02",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA FRANCES",
+		"departamento" :"opcionales",
+		"codigo":"78.03",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ITALIANO",
+		"departamento" :"opcionales",
+		"codigo":"78.04",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA PORTUGUES",
+		"departamento" :"opcionales",
+		"codigo":"78.05",
+		"creditos":4,
+		"correlativas":""
+	}
+]

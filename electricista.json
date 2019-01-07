@@ -1,0 +1,450 @@
+[
+	{
+		"materia":"ANALISIS MATEMATICO II A",
+		"departamento" :"matematica",
+		"codigo":"61.03",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"MEDIOS DE REPRESENTACION C",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.03",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA IA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.01",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"COMPUTACION",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"75.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"ALGEBRA II A",
+		"departamento" :"matematica",
+		"codigo":"61.08",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA II B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.04",
+		"creditos":6,
+		"correlativas":"61.03 62.01"
+	},
+	{
+		"materia":"QUIMICA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"63.01",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"PROBABILIDAD  ESTADISTICA A",
+		"departamento" :"matematica",
+		"codigo":"61.06",
+		"creditos":4,
+		"correlativas":"61.03"
+	},
+	{
+		"materia":"ANALISIS MATEMATICO III A",
+		"departamento" :"matematica",
+		"codigo":"61.10",
+		"creditos":6,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"ELECTROTECNIA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.01",
+		"creditos":8,
+		"correlativas":"61.08 62.04"
+	},
+	{
+		"materia":"CALOR Y TERMODINAMICA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.10",
+		"creditos":6,
+		"correlativas":"62.01"
+	},
+	{
+		"materia":"FISICA III",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.05",
+		"creditos":10,
+		"correlativas":"61.08 62.04 63.01"
+	},
+	{
+		"materia":"ELECTROMAGNETISMO A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.08",
+		"creditos":6,
+		"correlativas":"61.08 62.04"
+	},
+	{
+		"materia":"ESTATICA Y RESISTENCIA DE MATERIALES B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"64.05",
+		"creditos":6,
+		"correlativas":"61.03 61.08 62.01"
+	},
+	{
+		"materia":"MEDIDAS ELECTRICAS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.36",
+		"creditos":6,
+		"correlativas":"65.01"
+	},
+	{
+		"materia":"TEORIA DE CIRCUITOS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.09",
+		"creditos":6,
+		"correlativas":"61.10 65.01"
+	},
+	{
+		"materia":"ELECTRONICA I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"66.04",
+		"creditos":8,
+		"correlativas":"62.05 65.01"
+	},
+	{
+		"materia":"ANALISIS NUMERICO I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"75.12",
+		"creditos":6,
+		"correlativas":"61.03 61.08 75.01"
+	},
+	{
+		"materia":"TEORIA DE CAMPOS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.10",
+		"creditos":6,
+		"correlativas":"62.08"
+	},
+	{
+		"materia":"TECNOLOGIA DE MATERIALES I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.11",
+		"creditos":6,
+		"correlativas":"62.05 65.36"
+	},
+	{
+		"materia":"MECANICA APLICADA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.36",
+		"creditos":6,
+		"correlativas":"64.05"
+	},
+	{
+		"materia":"TECNOLOGIA DE MATERIALES II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.12",
+		"creditos":4,
+		"correlativas":"65.11"
+	},
+	{
+		"materia":"TEORIA DE MAQUINAS ELECTRICAS I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.13",
+		"creditos":8,
+		"correlativas":"62.08 65.01"
+	},
+	{
+		"materia":"MAQUINAS ENERGETICAS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.37",
+		"creditos":6,
+		"correlativas":"67.10"
+	},
+	{
+		"materia":"TEORIA DE MAQUINAS ELECTRICAS II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.14",
+		"creditos":6,
+		"correlativas":"65.13"
+	},
+	{
+		"materia":"ELECTRONICA II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"66.05",
+		"creditos":6,
+		"correlativas":"66.04"
+	},
+	{
+		"materia":"LEGISLACION Y EJERCICIO PROFESIONAL DE LA INGENIERIA ELECTRICISTA B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.39",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":"TESIS DE INGENIERIA ELECTRICISTA",
+		"departamento" :"TESIS",
+		"codigo":"65.00",
+		"creditos":18,
+		"correlativas":"."
+	},
+	{
+		"materia":"TRABAJO PROFESIONAL DE INGENIERIA ELECTRICISTA",
+		"departamento" :"TP_PROFESIONAL",
+		"codigo":"65.99",
+		"creditos":12,
+		"correlativas":""
+	},
+	{
+		"materia":"MECANICA RACIONAL",
+		"departamento" :"opcionales",
+		"codigo":"62.11",
+		"creditos":4,
+		"correlativas":"61.10 62.01"
+	},
+	{
+		"materia":"SISTEMAS ELECTRICOS DE POTENCIA",
+		"departamento" :"opcionales",
+		"codigo":"65.15",
+		"creditos":4,
+		"correlativas":"65.09 65.10 65.13"
+	},
+	{
+		"materia":"TRANSMISION Y DISTRIBUCION DE LA ENERGIA ELECTRICA",
+		"departamento" :"opcionales",
+		"codigo":"65.16",
+		"creditos":4,
+		"correlativas":"65.09 65.13"
+	},
+	{
+		"materia":"CENTRALES ELECTRICAS",
+		"departamento" :"opcionales",
+		"codigo":"65.17",
+		"creditos":4,
+		"correlativas":"65.13 67.37"
+	},
+	{
+		"materia":"APLICACIONES INDUSTRIALES DE LA ENERGIA ELECTRICA",
+		"departamento" :"opcionales",
+		"codigo":"65.22",
+		"creditos":6,
+		"correlativas":"65.12 66.04 67.10"
+	},
+	{
+		"materia":"CONSTRUCCIONES ELECTROMECANICAS",
+		"departamento" :"opcionales",
+		"codigo":"65.25",
+		"creditos":6,
+		"correlativas":"65.12 65.13 67.36"
+	},
+	{
+		"materia":"CONTROL DE PROCESOS INDUSTRAILES",
+		"departamento" :"opcionales",
+		"codigo":"65.28",
+		"creditos":4,
+		"correlativas":"65.09"
+	},
+	{
+		"materia":"ELECTRONICA INDUSTRIAL",
+		"departamento" :"opcionales",
+		"codigo":"65.29",
+		"creditos":6,
+		"correlativas":"66.05"
+	},
+	{
+		"materia":"ECONOMIA DE LA ENERGIA ELECTRICA",
+		"departamento" :"opcionales",
+		"codigo":"65.33",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":"LUMINOTECNIA",
+		"departamento" :"opcionales",
+		"codigo":"65.34",
+		"creditos":4,
+		"correlativas":"65.36"
+	},
+	{
+		"materia":"ENERGIAS RENOVABLES",
+		"departamento" :"opcionales",
+		"codigo":"65.37",
+		"creditos":4,
+		"correlativas":"65.13 67.37"
+	},
+	{
+		"materia":"MEDIDAS ELECTRICAS ESPECIALES",
+		"departamento" :"opcionales",
+		"codigo":"65.38",
+		"creditos":6,
+		"correlativas":"65.36"
+	},
+	{
+		"materia":"METROLOGIA Y TECNICAS DE CALIBRACION ELECTRICA",
+		"departamento" :"opcionales",
+		"codigo":"65.39",
+		"creditos":4,
+		"correlativas":"65.36"
+	},
+	{
+		"materia":"USO EFICIENTE DE LA ENERGIA ELECTRICA",
+		"departamento" :"opcionales",
+		"codigo":"65.40",
+		"creditos":4,
+		"correlativas":"65.13"
+	},
+	{
+		"materia":"ESTACIONES DE TRANSFORMACION Y DE DISTRIBUCION",
+		"departamento" :"opcionales",
+		"codigo":"65.41",
+		"creditos":4,
+		"correlativas":"65.09 65.13"
+	},
+	{
+		"materia":"SISTEMAS DE PROTECCIONES ELECTRICAS",
+		"departamento" :"opcionales",
+		"codigo":"65.42",
+		"creditos":4,
+		"correlativas":"65.09 65.36 65.13"
+	},
+	{
+		"materia":"SISTEMAS DE ENERGIA",
+		"departamento" :"opcionales",
+		"codigo":"65.44",
+		"creditos":4,
+		"correlativas":"65.01"
+	},
+	{
+		"materia":"REGULACION DE SERVICIOS PUBLICOS",
+		"departamento" :"opcionales",
+		"codigo":"65.45",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":""ENERGIA EOLICA",
+		"departamento" :"4",
+		"codigo":"65.46",
+		"creditos": HIDRAULICA Y MARINA",
+		"correlativas":"."
+	},
+	{
+		"materia":""ENERGIA SOLAR",
+		"departamento" :"4",
+		"codigo":"65.47",
+		"creditos": GEOTERMICA Y DE BIOMASA",
+		"correlativas":"."
+	},
+	{
+		"materia":"TECNICAS DIGITALES",
+		"departamento" :"opcionales",
+		"codigo":"66.01",
+		"creditos":6,
+		"correlativas":"61.08 75.01"
+	},
+	{
+		"materia":"SEÑALES Y SISTEMAS",
+		"departamento" :"opcionales",
+		"codigo":"66.74",
+		"creditos":6,
+		"correlativas":"61.06 65.09"
+	},
+	{
+		"materia":"TEORIA DE CONTROL I",
+		"departamento" :"opcionales",
+		"codigo":"66.18",
+		"creditos":6,
+		"correlativas":"66.74"
+	},
+	{
+		"materia":"ROBOTICA",
+		"departamento" :"opcionales",
+		"codigo":"66.32",
+		"creditos":6,
+		"correlativas":"62.11 66.18"
+	},
+	{
+		"materia":"TECNOLOGIA MECANICA B",
+		"departamento" :"opcionales",
+		"codigo":"67.38",
+		"creditos":4,
+		"correlativas":"67.36"
+	},
+	{
+		"materia":"INTRODUCCION A LA ECONOMIA Y ORGANIZACION DE LA EMPRESA",
+		"departamento" :"opcionales",
+		"codigo":"71.01",
+		"creditos":4,
+		"correlativas":"61.03"
+	},
+	{
+		"materia":"ESTRUCTURA ECONOMICA ARGENTINA",
+		"departamento" :"opcionales",
+		"codigo":"71.06",
+		"creditos":4,
+		"correlativas":"71.01"
+	},
+	{
+		"materia":"GESTION DE CALIDAD",
+		"departamento" :"opcionales",
+		"codigo":"71.36",
+		"creditos":4,
+		"correlativas":"61.06"
+	},
+	{
+		"materia":"HIGIENE Y SEGURIDAD DEL TRABAJO",
+		"departamento" :"opcionales",
+		"codigo":"77.01",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":"INTRODUCCION A LA INGENIERIA AMBIENTAL",
+		"departamento" :"opcionales",
+		"codigo":"77.02",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":"IDIOMA INGLES",
+		"departamento" :"opcionales",
+		"codigo":"78.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ALEMAN",
+		"departamento" :"opcionales",
+		"codigo":"78.02",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA FRANCES",
+		"departamento" :"opcionales",
+		"codigo":"78.03",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ITALIANO",
+		"departamento" :"opcionales",
+		"codigo":"78.04",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA PORTUGES",
+		"departamento" :"opcionales",
+		"codigo":"78.05",
+		"creditos":4,
+		"correlativas":""
+	},
+]

@@ -8,7 +8,7 @@ var materiasRealizadas = [];
 document.onload = start
 
 function start(){
-  const endpoint = 'materiasInformatica.json';
+  const endpoint = 'industrial.json';
 
   fetch(endpoint)
     .then(blob => blob.json())

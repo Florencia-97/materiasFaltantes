@@ -1,0 +1,716 @@
+[
+	{
+		"materia":"ANALISIS MATEMATICO II A",
+		"departamento" :"matematica",
+		"codigo":"61.03",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA IA",
+		"departamento" :"fisica",
+		"codigo":"62.01",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"ALGORITMOS Y PROGRAMACION I",
+		"departamento" :"computacion",
+		"codigo":"75.40",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"ALGEBRA II A",
+		"departamento" :"matematica",
+		"codigo":"61.08",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA II A",
+		"departamento" :"fisica",
+		"codigo":"62.03",
+		"creditos":8,
+		"correlativas":"61.03 62.01"
+	},
+	{
+		"materia":"QUIMICA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"63.01",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"ALGORITMOS Y PROGRAMACION II",
+		"departamento" :"computacion",
+		"codigo":"75.41",
+		"creditos":6,
+		"correlativas":"75.40"
+	},
+	{
+		"materia":"FISICA III D",
+		"departamento" :"fisica",
+		"codigo":"62.15",
+		"creditos":4,
+		"correlativas":"61.08 62.03 63.01"
+	},
+	{
+		"materia":"LABORATORIO",
+		"departamento" :"electronica",
+		"codigo":"66.02",
+		"creditos":6,
+		"correlativas":"62.03"
+	},
+	{
+		"materia":"ESTRUCTURA DEL COMPUTADOR",
+		"departamento" :"electronica",
+		"codigo":"66.70",
+		"creditos":6,
+		"correlativas":"61.08 62.03 75.41"
+	},
+	{
+		"materia":"ALGORITMOS Y PROGRAMACION III",
+		"departamento" :"computacion",
+		"codigo":"75.07",
+		"creditos":6,
+		"correlativas":"75.41"
+	},
+	{
+		"materia":"ANALISIS NUMERICO I",
+		"departamento" :"computacion",
+		"codigo":"75.12",
+		"creditos":6,
+		"correlativas":"61.03 61.08 75.41"
+	},
+	{
+		"materia":"PROBABILIDAD  ESTADISTICA B",
+		"departamento" :"matematica",
+		"codigo":"61.09",
+		"creditos":6,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"ANALISIS MATEMATICO III A",
+		"departamento" :"matematica",
+		"codigo":"61.10",
+		"creditos":6,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"ORGANIZACION DE COMPUTADORAS",
+		"departamento" :"computacion",
+		"codigo":"66.20",
+		"creditos":6,
+		"correlativas":"66.02 66.70"
+	},
+	{
+		"materia":"ORGANIZACION DE DATOS",
+		"departamento" :"computacion",
+		"codigo":"75.06",
+		"creditos":6,
+		"correlativas":"66.70 75.41"
+	},
+	{
+		"materia":"TALLER DE PROGRAMACION I",
+		"departamento" :"computacion",
+		"codigo":"75.42",
+		"creditos":4,
+		"correlativas":"66.70 75.12 75.41"
+	},
+	{
+		"materia":"ESTRUCTURA DE LAS ORGANIZACIONES",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.12",
+		"creditos":6,
+		"correlativas":"75.06"
+	},
+	{
+		"materia":"MODELOS Y OPTIMIZACION I",
+		"departamento" :"computacion",
+		"codigo":"71.14",
+		"creditos":6,
+		"correlativas":"61.10 62.03 63.01 75.42"
+	},
+	{
+		"materia":"SISTEMAS OPERATIVOS",
+		"departamento" :"computacion",
+		"codigo":"75.08",
+		"creditos":6,
+		"correlativas":"75.06"
+	},
+	{
+		"materia":"ANALISIS DE LA INFORMACION",
+		"departamento" :"computacion",
+		"codigo":"75.09",
+		"creditos":6,
+		"correlativas":"75.07 75.42"
+	},
+	{
+		"materia":"TECNICAS DE DISEÑO",
+		"departamento" :"computacion",
+		"codigo":"75.10",
+		"creditos":6,
+		"correlativas":"75.08 75.09"
+	},
+	{
+		"materia":"BASE DE DATOS",
+		"departamento" :"computacion",
+		"codigo":"75.15",
+		"creditos":6,
+		"correlativas":"75.06 75.09"
+	},
+	{
+		"materia":"INTRODUCCION A LOS SISTEMAS DISTRIBUIDOS",
+		"departamento" :"computacion",
+		"codigo":"75.43",
+		"creditos":6,
+		"correlativas":"66.20 62.15 75.08"
+	},
+	{
+		"materia":"TALLER DE PROGRAMACION II",
+		"departamento" :"computacion",
+		"codigo":"75.52",
+		"creditos":4,
+		"correlativas":"71.14 75.07 75.42"
+	},
+	{
+		"materia":"LEGISLACION Y EJERCICIO PROFESIONAL DE LA INGENIERIA EN INFORMATICA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.40",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":"TESIS",
+		"departamento" :"TESIS",
+		"codigo":"75.00",
+		"creditos":24,
+		"correlativas":"."
+	},
+	{
+		"materia":"TRABAJO PROFESIONAL",
+		"departamento" :"TP_PROFESIONAL",
+		"codigo":"75.99",
+		"creditos":12,
+		"correlativas":"."
+	},
+	{
+		"materia":"INFORMACION EN LAS ORGANIZACIONES",
+		"departamento" :"GESTION",
+		"codigo":"71.13",
+		"creditos":6,
+		"correlativas":"71.12"
+	},
+	{
+		"materia":"ADMINISTRACION Y CONTROL DE PROYECTOS INFORMATICOS I",
+		"departamento" :"GESTION",
+		"codigo":"75.44",
+		"creditos":6,
+		"correlativas":"71.12 75.10"
+	},
+	{
+		"materia":"TALLER DE DESARROLLO DE PROYECTOS I",
+		"departamento" :"GESTION",
+		"codigo":"75.45",
+		"creditos":6,
+		"correlativas":"75.10"
+	},
+	{
+		"materia":"ADMINISTRACION Y CONTROL DE PROYECTOS INFORMATICOS II",
+		"departamento" :"GESTION",
+		"codigo":"75.46",
+		"creditos":6,
+		"correlativas":"75.44"
+	},
+	{
+		"materia":"TALLER DE DESARROLLO DE PROYECTOS II",
+		"departamento" :"GESTION",
+		"codigo":"75.47",
+		"creditos":6,
+		"correlativas":"75.44 75.45"
+	},
+	{
+		"materia":"CALIDAD EN DESARROLLO DE SISTEMAS",
+		"departamento" :"GESTION",
+		"codigo":"75.48",
+		"creditos":4,
+		"correlativas":"75.45"
+	},
+	{
+		"materia":"ANALISIS DE CIRCUITOS",
+		"departamento" :"DISTRIBUIDOS",
+		"codigo":"66.06",
+		"creditos":10,
+		"correlativas":"61.10 62.03"
+	},
+	{
+		"materia":"TECNICAS DE PROGRAMACION CONCURRENTE I",
+		"departamento" :"DISTRIBUIDOS",
+		"codigo":"75.59",
+		"creditos":6,
+		"correlativas":"75.08"
+	},
+	{
+		"materia":"SEÑALES Y SISTEMAS",
+		"departamento" :"DISTRIBUIDOS",
+		"codigo":"66.74",
+		"creditos":6,
+		"correlativas":"61.09 66.06"
+	},
+	{
+		"materia":"SISTEMAS DISTRIBUIDOS I",
+		"departamento" :"DISTRIBUIDOS",
+		"codigo":"75.74",
+		"creditos":6,
+		"correlativas":"61.10 75.43 75.59"
+	},
+	{
+		"materia":"TALLER DE PROGRAMACION III",
+		"departamento" :"DISTRIBUIDOS",
+		"codigo":"75.61",
+		"creditos":6,
+		"correlativas":"66.74 75.74"
+	},
+	{
+		"materia":"ESTATICA Y RESISTENCIA DE MATERIALES B",
+		"departamento" :"PRODUCCION",
+		"codigo":"64.05",
+		"creditos":6,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"MANUFACTURA INTEGRADA POR COMPUTADORA (CIM) I",
+		"departamento" :"PRODUCCION",
+		"codigo":"75.65",
+		"creditos":6,
+		"correlativas":"75.15 75.52"
+	},
+	{
+		"materia":"SISTEMAS AUTOMATICOS DE DIAGNOSTICO Y DETECCION DE FALLAS I",
+		"departamento" :"PRODUCCION",
+		"codigo":"75.67",
+		"creditos":6,
+		"correlativas":"71.14"
+	},
+	{
+		"materia":"MATERIALES INDUSTRIALES I",
+		"departamento" :"PRODUCCION",
+		"codigo":"72.01",
+		"creditos":6,
+		"correlativas":"63.01 64.05"
+	},
+	{
+		"materia":"MANUFACTURA INTEGRADA POR COMPUTADORA (CIM) II",
+		"departamento" :"PRODUCCION",
+		"codigo":"75.66",
+		"creditos":6,
+		"correlativas":"75.65"
+	},
+	{
+		"materia":"SISTEMAS DE SOPORTE PARA CELDAS DE PRODUCCION FLEXIBLE",
+		"departamento" :"PRODUCCION",
+		"codigo":"75.68",
+		"creditos":4,
+		"correlativas":"75.65 75.67"
+	},
+	{
+		"materia":"MATEMATICA DISCRETA",
+		"departamento" :"opcionales",
+		"codigo":"61.07",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"ECUACIONES DIFERENCIALES ORDINARIAS",
+		"departamento" :"opcionales",
+		"codigo":"61.18",
+		"creditos":6,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"ANALISIS FUNCIONAL",
+		"departamento" :"opcionales",
+		"codigo":"61.19",
+		"creditos":6,
+		"correlativas":"61.10"
+	},
+	{
+		"materia":"MECANICA RACIONAL",
+		"departamento" :"opcionales",
+		"codigo":"62.11",
+		"creditos":4,
+		"correlativas":"61.10 62.01"
+	},
+	{
+		"materia":"CIRCUITOS ELECTRONICOS I",
+		"departamento" :"opcionales",
+		"codigo":"66.08",
+		"creditos":8,
+		"correlativas":"62.15 66.02 66.06"
+	},
+	{
+		"materia":"LABORATORIO DE MICROCOMPUTADORAS",
+		"departamento" :"opcionales",
+		"codigo":"66.09",
+		"creditos":6,
+		"correlativas":"66.02 66.70"
+	},
+	{
+		"materia":"SISTEMAS DIGITALES",
+		"departamento" :"opcionales",
+		"codigo":"66.17",
+		"creditos":6,
+		"correlativas":"66.70"
+	},
+	{
+		"materia":"TEORIA DE CONTROL I",
+		"departamento" :"opcionales",
+		"codigo":"66.18",
+		"creditos":6,
+		"correlativas":"66.74"
+	},
+	{
+		"materia":"CIRCUITOS DE PULSOS",
+		"departamento" :"opcionales",
+		"codigo":"66.19",
+		"creditos":6,
+		"correlativas":"66.08 66.70"
+	},
+	{
+		"materia":"TEORIA DE LA INFORMACION Y CODIFICACION",
+		"departamento" :"opcionales",
+		"codigo":"66.24",
+		"creditos":4,
+		"correlativas":"66.74 66.75 66.70"
+	},
+	{
+		"materia":"ARQUITECTURAS PARALELAS",
+		"departamento" :"opcionales",
+		"codigo":"66.26",
+		"creditos":6,
+		"correlativas":"66.20"
+	},
+	{
+		"materia":"ROBOTICA",
+		"departamento" :"opcionales",
+		"codigo":"66.32",
+		"creditos":6,
+		"correlativas":"62.11 66.18"
+	},
+	{
+		"materia":"TECNICA DIGITAL AVANZADA",
+		"departamento" :"opcionales",
+		"codigo":"66.35",
+		"creditos":6,
+		"correlativas":"61.07 66.17"
+	},
+	{
+		"materia":"PROCESAMIENTO DEL HABLA",
+		"departamento" :"opcionales",
+		"codigo":"66.46",
+		"creditos":6,
+		"correlativas":"66.74"
+	},
+	{
+		"materia":"PROCESAMIENTO DE IMAGENES",
+		"departamento" :"opcionales",
+		"codigo":"66.47",
+		"creditos":6,
+		"correlativas":"61.09 66.74"
+	},
+	{
+		"materia":"SISTEMAS BIOLOGICOS",
+		"departamento" :"opcionales",
+		"codigo":"66.49",
+		"creditos":6,
+		"correlativas":"66.74 63.01"
+	},
+	{
+		"materia":"SIMULACION DE SISTEMAS DE CONTROL",
+		"departamento" :"opcionales",
+		"codigo":"66.55",
+		"creditos":4,
+		"correlativas":"66.18"
+	},
+	{
+		"materia":"REDES NEURONALES",
+		"departamento" :"opcionales",
+		"codigo":"66.63",
+		"creditos":6,
+		"correlativas":"66.74 66.75"
+	},
+	{
+		"materia":"CRIPTOGRAFIA Y SEGURIDAD INFORMATICA",
+		"departamento" :"opcionales",
+		"codigo":"66.69",
+		"creditos":6,
+		"correlativas":"75.43"
+	},
+	{
+		"materia":"SISTEMAS GRAFICOS",
+		"departamento" :"opcionales",
+		"codigo":"66.71",
+		"creditos":6,
+		"correlativas":"61.10 75.41"
+	},
+	{
+		"materia":"PROCESOS ESTOCASTICOS",
+		"departamento" :"opcionales",
+		"codigo":"66.75",
+		"creditos":6,
+		"correlativas":"61.03 61.09"
+	},
+	{
+		"materia":"FUNDAMENTOS MATEMATICOS DE LA VISION EN ROBOTICA",
+		"departamento" :"opcionales",
+		"codigo":"67.61",
+		"creditos":6,
+		"correlativas":"61.08 75.07"
+	},
+	{
+		"materia":"MODELOS Y OPTIMIZACION II",
+		"departamento" :"opcionales",
+		"codigo":"71.15",
+		"creditos":6,
+		"correlativas":"61.09 71.14"
+	},
+	{
+		"materia":"ESTRUCTURA ECONOMICA ARGENTINA",
+		"departamento" :"opcionales",
+		"codigo":"71.18",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"MODELOS  OPTIMIZACION III",
+		"departamento" :"opcionales",
+		"codigo":"71.20",
+		"creditos":6,
+		"correlativas":"71.15"
+	},
+	{
+		"materia":"ANALISIS Y RESOLUCION DE PROBLEMAS",
+		"departamento" :"opcionales",
+		"codigo":"71.41",
+		"creditos":6,
+		"correlativas":"71.15"
+	},
+	{
+		"materia":"CIRCUITOS DE INFORMACION EN LA EMPRESA",
+		"departamento" :"opcionales",
+		"codigo":"71.42",
+		"creditos":4,
+		"correlativas":"71.46"
+	},
+	{
+		"materia":"RECURSOS HUMANOS",
+		"departamento" :"opcionales",
+		"codigo":"71.44",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":"INGENIERIA ECONOMICA",
+		"departamento" :"opcionales",
+		"codigo":"71.46",
+		"creditos":6,
+		"correlativas":"71.13"
+	},
+	{
+		"materia":"LENGUAJES FORMALES",
+		"departamento" :"opcionales",
+		"codigo":"75.14",
+		"creditos":6,
+		"correlativas":"61.09"
+	},
+	{
+		"materia":"LENGUAJES DE PROGRAMACION",
+		"departamento" :"opcionales",
+		"codigo":"75.16",
+		"creditos":6,
+		"correlativas":"75.14"
+	},
+	{
+		"materia":"SIMULACION",
+		"departamento" :"opcionales",
+		"codigo":"75.26",
+		"creditos":6,
+		"correlativas":"61.09"
+	},
+	{
+		"materia":"TEORIA DE ALGORITMOS I",
+		"departamento" :"opcionales",
+		"codigo":"75.29",
+		"creditos":6,
+		"correlativas":"61.07 75.41"
+	},
+	{
+		"materia":"TEORIA DE ALGORITMOS II",
+		"departamento" :"opcionales",
+		"codigo":"75.30",
+		"creditos":6,
+		"correlativas":"75.29"
+	},
+	{
+		"materia":"TEORIA DEL LENGUAJE",
+		"departamento" :"opcionales",
+		"codigo":"75.31",
+		"creditos":4,
+		"correlativas":"75.41"
+	},
+	{
+		"materia":"ANALISIS NUMERICO II A",
+		"departamento" :"opcionales",
+		"codigo":"75.38",
+		"creditos":6,
+		"correlativas":"75.52"
+	},
+	{
+		"materia":"INTRODUCCION A LOS SISTEMAS INTELIGENTES",
+		"departamento" :"opcionales",
+		"codigo":"75.50",
+		"creditos":6,
+		"correlativas":"61.09 71.14"
+	},
+	{
+		"materia":"TECNICAS DE PRODUCCION DE SOFTWARE I",
+		"departamento" :"opcionales",
+		"codigo":"75.51",
+		"creditos":4,
+		"correlativas":"75.15 75.52"
+	},
+	{
+		"materia":"TECNICAS DE PRODUCCION DE SOFTWARE II",
+		"departamento" :"opcionales",
+		"codigo":"75.53",
+		"creditos":4,
+		"correlativas":"75.51"
+	},
+	{
+		"materia":"TECNICAS DE PRODUCCION DE SOFTWARE III",
+		"departamento" :"opcionales",
+		"codigo":"75.54",
+		"creditos":4,
+		"correlativas":"75.48 75.53"
+	},
+	{
+		"materia":"TALLER DE DESARROLLO DE PROYECTOS III",
+		"departamento" :"opcionales",
+		"codigo":"75.55",
+		"creditos":4,
+		"correlativas":"75.46 75.47 75.48"
+	},
+	{
+		"materia":"ORGANIZACION DE LA IMPLANTACION Y EL MANTENIMIENTO",
+		"departamento" :"opcionales",
+		"codigo":"75.56",
+		"creditos":6,
+		"correlativas":"75.46 75.48"
+	},
+	{
+		"materia":"MODELOS DE PROCESO DE DESARROLLO",
+		"departamento" :"opcionales",
+		"codigo":"75.57",
+		"creditos":4,
+		"correlativas":"75.46 75.48"
+	},
+	{
+		"materia":"EVALUACION DE PROYECTOS Y MANEJO DE RIESGOS",
+		"departamento" :"opcionales",
+		"codigo":"75.58",
+		"creditos":4,
+		"correlativas":"75.46 75.48"
+	},
+	{
+		"materia":"TECNICAS DE PROGRAMACION CONCURRENTE II",
+		"departamento" :"opcionales",
+		"codigo":"75.62",
+		"creditos":4,
+		"correlativas":"75.59"
+	},
+	{
+		"materia":"SISTEMAS DISTRIBUIDOS II",
+		"departamento" :"opcionales",
+		"codigo":"75.63",
+		"creditos":4,
+		"correlativas":"75.74"
+	},
+	{
+		"materia":"SISTEMAS MULTIMEDIALES",
+		"departamento" :"opcionales",
+		"codigo":"75.64",
+		"creditos":4,
+		"correlativas":"66.74 75.74"
+	},
+	{
+		"materia":"SISTEMAS AUTOMATICOS DE DIAGNOSTICO Y DETECCION DE FALLAS II",
+		"departamento" :"opcionales",
+		"codigo":"75.69",
+		"creditos":6,
+		"correlativas":"75.67"
+	},
+	{
+		"materia":"SISTEMAS DE PROGRAMACION NO CONVENCIONAL DE ROBOTS",
+		"departamento" :"opcionales",
+		"codigo":"75.70",
+		"creditos":6,
+		"correlativas":"75.50"
+	},
+	{
+		"materia":"SEMINARIO DE INGENIERIA EN INFORMATICA I",
+		"departamento" :"opcionales",
+		"codigo":"75.71",
+		"creditos":3,
+		"correlativas":"75.07"
+	},
+	{
+		"materia":"SEMINARIO DE INGENIERIA EN INFORMATICA II",
+		"departamento" :"opcionales",
+		"codigo":"75.72",
+		"creditos":3,
+		"correlativas":"75.06 75.44"
+	},
+	{
+		"materia":"ARQUITECTURA DE SOFTWARE",
+		"departamento" :"opcionales",
+		"codigo":"75.73",
+		"creditos":4,
+		"correlativas":"75.07 75.09"
+	},
+	{
+		"materia":"IDIOMA INGLES",
+		"departamento" :"opcionales",
+		"codigo":"78.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ALEMAN",
+		"departamento" :"opcionales",
+		"codigo":"78.02",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA FRANCES",
+		"departamento" :"opcionales",
+		"codigo":"78.03",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ITALIANO",
+		"departamento" :"opcionales",
+		"codigo":"78.04",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA PORTUGUES",
+		"departamento" :"opcionales",
+		"codigo":"78.05",
+		"creditos":4,
+		"correlativas":""
+	}
+]

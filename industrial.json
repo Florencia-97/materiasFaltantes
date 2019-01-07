@@ -1,0 +1,450 @@
+[
+	{
+		"materia":"ANALISIS MATEMATICO II A",
+		"departamento" :"matematica",
+		"codigo":"61.03",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA IA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.01",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"QUIMICA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"63.01",
+		"creditos":6,
+		"correlativas":""
+	},
+	{
+		"materia":"PROBABILIDAD Y ESTADISTICA A",
+		"departamento" :"matematica",
+		"codigo":"61.06",
+		"creditos":4,
+		"correlativas":"61.03"
+	},
+	{
+		"materia":"ALGEBRA II A",
+		"departamento" :"matematica",
+		"codigo":"61.08",
+		"creditos":8,
+		"correlativas":""
+	},
+	{
+		"materia":"FISICA II A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"62.03",
+		"creditos":8,
+		"correlativas":"61.03 62.01"
+	},
+	{
+		"materia":"QUIMICA APLICADA A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"63.11",
+		"creditos":6,
+		"correlativas":"63.01"
+	},
+	{
+		"materia":"ESTATICA Y RESISTENCIA DE MATERIALES A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"64.04",
+		"creditos":8,
+		"correlativas":"61.03 61.08 62.01"
+	},
+	{
+		"materia":"ELECTROTECNICA GENERAL A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"65.03",
+		"creditos":8,
+		"correlativas":"61.08 62.03"
+	},
+	{
+		"materia":"MEDIOS DE REPRESENTACION C",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.03",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"COMPUTACION",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"75.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"TERMODINAMICA B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.52",
+		"creditos":4,
+		"correlativas":"62.03"
+	},
+	{
+		"materia":"INTRODUCCION A LA ECONOMIA Y ORGANIZACION DE LA EMPRESA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"MATERIALES INDUSTRIALES I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"72.01",
+		"creditos":6,
+		"correlativas":"63.11 64.04"
+	},
+	{
+		"materia":"ANALISIS NUMERICO I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"75.12",
+		"creditos":6,
+		"correlativas":"61.03 61.08 75.01"
+	},
+	{
+		"materia":"MECANISMOS B",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.12",
+		"creditos":6,
+		"correlativas":"64.04 67.03"
+	},
+	{
+		"materia":"MAQUINAS TERMICAS",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"67.51",
+		"creditos":4,
+		"correlativas":"67.52"
+	},
+	{
+		"materia":"MECANICA DE LOS FLUIDOS A",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"69.03",
+		"creditos":6,
+		"correlativas":"61.03 61.08 62.01"
+	},
+	{
+		"materia":"ESTADISTICA TECNICA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.03",
+		"creditos":6,
+		"correlativas":"61.06"
+	},
+	{
+		"materia":"ORGANIZACION INDUSTRIAL I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.04",
+		"creditos":4,
+		"correlativas":"61.06 71.01"
+	},
+	{
+		"materia":"ORGANIZACION INDUSTRIAL II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.05",
+		"creditos":4,
+		"correlativas":"71.04"
+	},
+	{
+		"materia":"ESTRUCTURA ECONOMICA ARGENTINA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.06",
+		"creditos":6,
+		"correlativas":"71.01"
+	},
+	{
+		"materia":"INDUSTRIAS I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"72.02",
+		"creditos":6,
+		"correlativas":"67.52 69.03 72.01"
+	},
+	{
+		"materia":"INVESTIGACION OPERATIVA",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.07",
+		"creditos":8,
+		"correlativas":"71.03"
+	},
+	{
+		"materia":"INDUSTRIA DE PROCESOS DE CONFORMACION",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"72.04",
+		"creditos":8,
+		"correlativas":"67.03 67.12 71.05 72.01"
+	},
+	{
+		"materia":"INDUSTRIAS II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"72.18",
+		"creditos":8,
+		"correlativas":"72.02"
+	},
+	{
+		"materia":"ORGANIZACION INDUSTRIAL III",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.08",
+		"creditos":6,
+		"correlativas":"71.05"
+	},
+	{
+		"materia":"ARQUITECTURA INDUSTRIAL",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"72.05",
+		"creditos":4,
+		"correlativas":"64.04 72.18"
+	},
+	{
+		"materia":"AUTOMATIZACION INDUSTRIAL",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"72.06",
+		"creditos":4,
+		"correlativas":"65.03 67.12 72.18"
+	},
+	{
+		"materia":"HIGIENE Y SEGURIDAD DEL TRABAJO",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"77.01",
+		"creditos":4,
+		"correlativas":"72.02"
+	},
+	{
+		"materia":"INGENIERIA ECONOMICA I",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.50",
+		"creditos":4,
+		"correlativas":"71.05 71.06"
+	},
+	{
+		"materia":"INDUSTRIAS III",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"72.07",
+		"creditos":6,
+		"correlativas":"65.03 71.05 72.18"
+	},
+	{
+		"materia":"TESIS DE INGENIERIA INDUSTRIAL",
+		"departamento" :"TESIS",
+		"codigo":"72.00",
+		"creditos":18,
+		"correlativas":"."
+	},
+	{
+		"materia":"LEGISLACION Y EJERCICIO PROFESIONAL DE LA INGENIERIA INDUSTRIAL",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.22",
+		"creditos":4,
+		"correlativas":"."
+	},
+	{
+		"materia":"INGENIERIA ECONOMICA II",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"71.51",
+		"creditos":4,
+		"correlativas":"71.50"
+	},
+	{
+		"materia":"INTRODUCCION A LA INGENIERIA AMBIENTAL",
+		"departamento" :"OBLIGATORIA",
+		"codigo":"77.02",
+		"creditos":4,
+		"correlativas":"77.01"
+	},
+	{
+		"materia":"TRABAJO PROFESIONAL DE INGENIERIA INDUSTRIAL",
+		"departamento" :"TP_PROFESIONAL",
+		"codigo":"72.99",
+		"creditos":18,
+		"correlativas":"71.08 72.02 72.05 72.18"
+	},
+	{
+		"materia":"ANALISIS MATEMATICO III",
+		"departamento" :"opcionales",
+		"codigo":"61.10",
+		"creditos":8,
+		"correlativas":"61.03 61.08"
+	},
+	{
+		"materia":"MECANICA I",
+		"departamento" :"opcionales",
+		"codigo":"62.06",
+		"creditos":6,
+		"correlativas":"61.03 61.08 62.01"
+	},
+	{
+		"materia":"MECANICA II",
+		"departamento" :"opcionales",
+		"codigo":"62.07",
+		"creditos":4,
+		"correlativas":"61.10 62.06"
+	},
+	{
+		"materia":"FISICA III C",
+		"departamento" :"opcionales",
+		"codigo":"62.13",
+		"creditos":6,
+		"correlativas":"61.08 62.03 63.01"
+	},
+	{
+		"materia":"TALLER",
+		"departamento" :"opcionales",
+		"codigo":"67.17",
+		"creditos":4,
+		"correlativas":"63.11 67.03 67.12"
+	},
+	{
+		"materia":"INVESTIGACION OPERATIVA SUPERIOR",
+		"departamento" :"opcionales",
+		"codigo":"71.32",
+		"creditos":4,
+		"correlativas":"71.07"
+	},
+	{
+		"materia":"COMERCIALIZACION DE PRODUCTOS INDUSTRIALES",
+		"departamento" :"opcionales",
+		"codigo":"71.33",
+		"creditos":4,
+		"correlativas":"71.08"
+	},
+	{
+		"materia":"GESTION PRESUPUESTARIA",
+		"departamento" :"opcionales",
+		"codigo":"71.34",
+		"creditos":4,
+		"correlativas":"71.51"
+	},
+	{
+		"materia":"ESTADISTICA TECNICA SUPERIOR",
+		"departamento" :"opcionales",
+		"codigo":"71.35",
+		"creditos":6,
+		"correlativas":"71.03"
+	},
+	{
+		"materia":"GESTION DE CALIDAD",
+		"departamento" :"opcionales",
+		"codigo":"71.36",
+		"creditos":4,
+		"correlativas":"71.03 71.08"
+	},
+	{
+		"materia":"DIRECCION DE MANUFACTURA",
+		"departamento" :"opcionales",
+		"codigo":"71.37",
+		"creditos":6,
+		"correlativas":"71.08"
+	},
+	{
+		"materia":"LOGISTICA INTEGRAL",
+		"departamento" :"opcionales",
+		"codigo":"71.43",
+		"creditos":4,
+		"correlativas":"71.08"
+	},
+	{
+		"materia":"RECURSOS HUMANOS",
+		"departamento" :"opcionales",
+		"codigo":"71.44",
+		"creditos":4,
+		"correlativas":"71.05"
+	},
+	{
+		"materia":"INFORMATICA PARA LA GESTION DE EMPRESAS",
+		"departamento" :"opcionales",
+		"codigo":"71.45",
+		"creditos":4,
+		"correlativas":"71.08"
+	},
+	{
+		"materia":"INDUSTRIAS PLASTICAS",
+		"departamento" :"opcionales",
+		"codigo":"72.09",
+		"creditos":4,
+		"correlativas":"72.18"
+	},
+	{
+		"materia":"INDUSTRIAS DE CELULOSA Y PAPEL",
+		"departamento" :"opcionales",
+		"codigo":"72.10",
+		"creditos":4,
+		"correlativas":"72.18"
+	},
+	{
+		"materia":"INDUSTRIAS PETROQUIMICAS",
+		"departamento" :"opcionales",
+		"codigo":"72.11",
+		"creditos":4,
+		"correlativas":"72.18"
+	},
+	{
+		"materia":"INDUSTRIAS TEXTILES",
+		"departamento" :"opcionales",
+		"codigo":"72.12",
+		"creditos":4,
+		"correlativas":"72.02"
+	},
+	{
+		"materia":"MATERIALES INDUSTRIALES II",
+		"departamento" :"opcionales",
+		"codigo":"72.13",
+		"creditos":4,
+		"correlativas":"72.01"
+	},
+	{
+		"materia":"DISEÑO DE PRODUCTOS",
+		"departamento" :"opcionales",
+		"codigo":"72.14",
+		"creditos":4,
+		"correlativas":"71.05 72.01"
+	},
+	{
+		"materia":"INDUSTRIAS DE LA ALIMENTACION",
+		"departamento" :"opcionales",
+		"codigo":"72.15",
+		"creditos":4,
+		"correlativas":"72.18"
+	},
+	{
+		"materia":"INDUSTRIAS PETROLIFERAS",
+		"departamento" :"opcionales",
+		"codigo":"72.17",
+		"creditos":4,
+		"correlativas":"72.18"
+	},
+	{
+		"materia":"IDIOMA INGLES",
+		"departamento" :"opcionales",
+		"codigo":"78.01",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ALEMAN",
+		"departamento" :"opcionales",
+		"codigo":"78.02",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA FRANCES",
+		"departamento" :"opcionales",
+		"codigo":"78.03",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA ITALIANO",
+		"departamento" :"opcionales",
+		"codigo":"78.04",
+		"creditos":4,
+		"correlativas":""
+	},
+	{
+		"materia":"IDIOMA PORTUGUES",
+		"departamento" :"opcionales",
+		"codigo":"78.05",
+		"creditos":4,
+		"correlativas":""
+	}
+]
