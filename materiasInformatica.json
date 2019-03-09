@@ -108,16 +108,16 @@
     {
         "materia": "Algoritmos y Programación 1",
         "departamento": "computacion",
-        "codigo":  "75.41",
+        "codigo":  "75.40",
         "creditos": 6,
         "correlativas": ""
     },
     {
         "materia": "Algoritmos y Programación 2",
         "departamento": "computacion",
-        "codigo":  "75.40",
+        "codigo":  "75.41",
         "creditos": 6,
-        "correlativas": "75.41"
+        "correlativas": "75.40"
     },
     {
         "materia": "Algoritmos y Programación 3",
