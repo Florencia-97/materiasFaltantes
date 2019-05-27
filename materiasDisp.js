@@ -1,18 +1,24 @@
+var materias;
+var materiasDisponiblesCodigo ;
+var materiasRealizadasCodigo;
+var materiasDisponibles;
+var materiasRealizadas;
 
-var materias = [];
-var materiasDisponiblesCodigo = [];
-var materiasRealizadasCodigo = [];
-var materiasDisponibles = [];
-var materiasRealizadas = [];
 
-document.onload = start
+async function start(endpoint){
 
-function start(){
-  const endpoint = 'materiasInformatica.json';
+  materias = [];
+  materiasDisponiblesCodigo = [];
+  materiasRealizadasCodigo = [];
+  materiasDisponibles = [];
+  materiasRealizadas = [];
 
-  fetch(endpoint)
-    .then(blob => blob.json())
-    .then(data => materias.push(...data));
+  const response = await fetch(endpoint);
+  const data = await response.json();
+
+  for (var i = 0; i < data.length; i++) {
+    materias.push(data[i]);
+  }
 
 }
 
@@ -32,17 +38,22 @@ function asignaturaPosible(asignatura, regex){
 
 //CARGA INICIAL DE INFO
 
-function agregarMateriasIniciales(){
+async function agregarMateriasIniciales(carrera_json){
 
+  await start(carrera_json);
+  
   //Esto dps lo cambio cuando agrego más materias
   document.getElementById('seleccionarCarrera').innerHTML = 'Ingeniería Informática'
-  var sugerencias = document.querySelector('.sugerencias');
+  //var sugerencias = document.querySelector('.sugerencias');
   var realizadas = document.querySelector('.realizadas');
   realizadas.innerHTML = "";
 
   const sinCorrelativas =  materias.filter(materia => {
     return noPoseeCorrelativa(materia)
   });
+
+  console.log(materias);
+
   const html = sinCorrelativas.map(sinCorrelativa => {
     materiasDisponibles.push(sinCorrelativa);
     return `
@@ -53,6 +64,8 @@ function agregarMateriasIniciales(){
   }).join('');
   var disponibles = document.querySelector('.disponibles');
   disponibles.innerHTML = html;
+
+  console.log(disponibles);
 }
 
 function noPoseeCorrelativa(materia){
@@ -74,6 +87,9 @@ function mostrarOpciones(){
 }
 
 function agregarMateriaRealizada(element){
+
+  console.log(materias)
+
   var materia = materias.filter(asignatura => {
   const regex = new RegExp(element.id, 'gi');
       return asignatura.materia.match(regex) || asignatura.departamento.match(regex)

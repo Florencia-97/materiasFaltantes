@@ -1,0 +1,373 @@
+[
+    {
+        "materia": "Análisis Matemático 2",
+        "departamento": "matematica",
+        "codigo":  "81.01",
+        "creditos": 8,
+        "correlativas": ""
+    },
+    {
+        "materia": "Álgebra 2",
+        "departamento": "matematica",
+        "codigo":  "81.02",
+        "creditos": 8,
+        "correlativas": ""
+    },
+    {
+        "materia": "Probabilidad y Estadística B",
+        "departamento": "matematica",
+        "codigo":  "81.04",
+        "creditos": 6,
+        "correlativas": "81.01 81.02"
+    },
+    {
+        "materia": "Discreta",
+        "departamento": "matematica",
+        "codigo":  "81.11",
+        "creditos": 6,
+        "correlativas": ""
+    },
+    {
+        "materia": "Teoría de Algoritmos 1",
+        "departamento": "opcionales",
+        "codigo":  "61.29",
+        "creditos": 6,
+        "correlativas": "61.07 75.41 "
+    },
+    {
+        "materia": "Ecuaciones Diferenciales Ordinarias",
+        "departamento": "opcionales",
+        "codigo":  "61.18",
+        "creditos": 6,
+        "correlativas": "61.03 61.08"
+    },
+    {
+        "materia": "Análisis Funcional",
+        "departamento": "opcionales",
+        "codigo":  "61.19",
+        "creditos": 6,
+        "correlativas": "61.10"
+    },
+    {
+        "materia": "Algoritmos y Programación 1",
+        "departamento": "computacion",
+        "codigo":  "95.14",
+        "creditos": 6,
+        "correlativas": ""
+    },
+    {
+        "materia": "Algoritmos y Programación 2",
+        "departamento": "computacion",
+        "codigo":  "95.15",
+        "creditos": 6,
+        "correlativas": "95.14"
+    },
+    {
+        "materia": "Algoritmos y Programación 3",
+        "departamento": "computacion",
+        "codigo":  "95.02",
+        "creditos": 6,
+        "correlativas": "95.15"
+    },
+    {
+        "materia": "Organizacion del Computador",
+        "departamento": "computacion",
+        "codigo":  "95.57",
+        "creditos": 8,
+        "correlativas": "95.14"
+    },
+    {
+        "materia": "Organizacion de Datos",
+        "departamento": "computacion",
+        "codigo":  "95.58",
+        "creditos": 6,
+        "correlativas": "95.57 95.15"
+    },
+    {
+        "materia": "Taller de Programacion",
+        "departamento": "computacion",
+        "codigo":  "95.08",
+        "creditos": 4,
+        "correlativas": "95.02 95.57"
+    },
+    {
+        "materia": "Taller de Programacion 2",
+        "departamento": "computacion",
+        "codigo":  "75.52",
+        "creditos": 4,
+        "correlativas": "75.07 71.14 75.42"
+    },
+    {
+        "materia": "Estructura de las Organizaciones",
+        "departamento": "computacion",
+        "codigo":  "71.12",
+        "creditos": 6,
+        "correlativas": "75.06"
+    },
+    {
+        "materia": "Modelos y Optimización I",
+        "departamento": "computacion",
+        "codigo":  "91.04",
+        "creditos": 6,
+        "correlativas": "81.01 81.02 81.11 95.15"
+    },
+    {
+        "materia": "Modelos y Optimización II",
+        "departamento": "computacion",
+        "codigo":  "91.05",
+        "creditos": 6,
+        "correlativas": "81.04 91.04"
+    },
+    {
+        "materia": "Modelos y Optimización III",
+        "departamento": "computacion",
+        "codigo":  "91.06",
+        "creditos": 6,
+        "correlativas": "91.05"
+    },
+    {
+        "materia": "Sistemas Operativos",
+        "departamento": "computacion",
+        "codigo":  "95.03",
+        "creditos": 6,
+        "correlativas": "95.58"
+    },
+    {
+        "materia": "Análisis de la Información",
+        "departamento": "computacion",
+        "codigo":  "75.09",
+        "creditos": 6,
+        "correlativas": "75.07 75.42"
+    },
+    {
+        "materia": "Técnicas de Diseño",
+        "departamento": "computacion",
+        "codigo":  "75.10",
+        "creditos": 6,
+        "correlativas": "75.06"
+    },
+    {
+        "materia": "Base de Datos",
+        "departamento": "computacion",
+        "codigo":  "95.05",
+        "creditos": 6,
+        "correlativas": "95.20"
+    },
+    {
+        "materia": "Información en las Organizaciones",
+        "departamento": "gestion_industrial",
+        "codigo":  "71.13",
+        "creditos": 6,
+        "correlativas": "75.12"
+    },
+    {
+        "materia": "Administración y Control de Proyectos Informáticos I",
+        "departamento": "industrial",
+        "codigo":  "95.24",
+        "creditos": 6,
+        "correlativas": "91.42 95.21"
+    },
+    {
+        "materia": "Taller de Desarrollo de Proyectos I",
+        "departamento": "computacion",
+        "codigo":  "75.45",
+        "creditos": 6,
+        "correlativas": "75.10"
+    },
+    {
+        "materia": "Criptografía y seguridad Informática",
+        "departamento": "opcionales",
+        "codigo":  "86.36",
+        "creditos": 4,
+        "correlativas": "95.60"
+    },
+    {
+        "materia": "Macroeconomía y Estructura Económica Argentina",
+        "departamento": "opcionales",
+        "codigo":  "91.24",
+        "creditos": 4,
+        "correlativas": "91.39"
+    },
+    {
+        "materia": "Emprendimientos en Ingeniería",
+        "departamento": "opcionales",
+        "codigo":  "91.37",
+        "creditos": 3,
+        "correlativas": "95.24"
+    },
+    {
+        "materia": "Análisis de Casos",
+        "departamento": "opcionales",
+        "codigo":  "",
+        "creditos": 8,
+        "correlativas": ""
+    },
+    {
+        "materia": "Análisis Numérico I",
+        "departamento": "opcionales",
+        "codigo":  "95.04",
+        "creditos": 6,
+        "correlativas": "81.01 81.02 95.14"
+    },
+    {
+        "materia": "Teoría de Algorítmos I",
+        "departamento": "opcionales",
+        "codigo":  "95.06",
+        "creditos": 6,
+        "correlativas": "81.11 95.15"
+    },
+    {
+        "materia": "Teoría de Lenguajes de Programación",
+        "departamento": "opcionales",
+        "codigo":  "95.07",
+        "creditos": 4,
+        "correlativas": "95.15"
+    },
+    {
+        "materia": "Simulación",
+        "departamento": "opcionales",
+        "codigo":  "95.19",
+        "creditos": 6,
+        "correlativas": "81.04 95.15"
+    },
+    {
+        "materia": "Inteligencia Artificial",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.02"
+    },
+    {
+        "materia": "Evaluación e Implantación de Sistemas",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.24"
+    },
+    {
+        "materia": "Evaluación de Proyectos y Manejo de Riesgos",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.24"
+    },
+    {
+        "materia": "Técnicas de Programación Concurrente I",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.03"
+    },
+    {
+        "materia": "Lenguajes Formales",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "81.11"
+    },
+    {
+        "materia": "Lenguajes de Programación",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.48"
+    },
+    {
+        "materia": "Innovación Tecnológica",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.24"
+    },
+    {
+        "materia": "Desarrollo de Aplicaciones Mainframe ",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.05 95.15"
+    },
+    {
+        "materia": "Auditoria de Sistemas",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.24"
+    },
+    {
+        "materia": "Diseño y Desarrollo de Interfaces de Usuario",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.20"
+    },
+    {
+        "materia": "Bases de Datos Multidimensionales",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.05"
+    },
+    {
+        "materia": "Minería de Datos",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.05"
+    },
+    {
+        "materia": "Desarrollo con Nuevas Tecnologías",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.02"
+    },
+    {
+        "materia": "Seminario de Sistemas de Información y Gestión",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "91.42 95.21"
+    },
+    {
+        "materia": "Arquitecturas y Configuraciones",
+        "departamento": "opcionales",
+        "codigo":  "95.25",
+        "creditos": 6,
+        "correlativas": "95.03"
+    },
+    {
+        "materia": "Idioma Inglés",
+        "departamento": "idioma",
+        "codigo":  "98.01",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Alemán",
+        "departamento": "idioma",
+        "codigo":  "98.02",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Francés",
+        "departamento": "idioma",
+        "codigo":  "98.03",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Italiano",
+        "departamento": "idioma",
+        "codigo":  "98.04",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Portugués",
+        "departamento": "idioma",
+        "codigo":  "98.05",
+        "creditos": 4,
+        "correlativas": ""
+    }
+]

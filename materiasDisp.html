@@ -10,7 +10,7 @@
     <script src="materiasDisp.js"></script>
     <link href="style.css" rel="stylesheet" type="text/css"/>
   </head>
-  <body onload="start()">
+  <body>
 
     <h2 class='titulo'>Seleccione una carrera</h2><hr/>
 
@@ -19,7 +19,8 @@
         <button class="btn btn-primary dropdown-toggle" type="button" id="seleccionarCarrera" data-toggle="dropdown">Seleccionar Carrera</button>
         <span class="caret"></span></button>
         <ul class="dropdown-menu">
-          <li><a onclick="agregarMateriasIniciales()">Ingenieria Informática (1986)</a></li>
+          <li><a onclick="agregarMateriasIniciales('materiasInformatica.json')">Ingenieria Informática (1986)</a></li>
+          <li><a onclick="agregarMateriasIniciales('materiasLicenciatura.json')">Licenciatura en Sistemas (1986)</a></li>
         </ul>
       </div>
     </div>

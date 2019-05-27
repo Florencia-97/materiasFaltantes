@@ -335,5 +335,40 @@
         "codigo":  "75.68",
         "creditos": 6,
         "correlativas": "75.65 75.67"
+    },
+    {
+        "materia": "Idioma Inglés",
+        "departamento": "idioma",
+        "codigo":  "78.01",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Alemán",
+        "departamento": "idioma",
+        "codigo":  "78.02",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Francés",
+        "departamento": "idioma",
+        "codigo":  "78.03",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Italiano",
+        "departamento": "idioma",
+        "codigo":  "78.04",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Idioma Portugués",
+        "departamento": "idioma",
+        "codigo":  "78.05",
+        "creditos": 4,
+        "correlativas": ""
     }
 ]
