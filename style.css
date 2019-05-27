@@ -94,7 +94,8 @@ hr {
   list-style: none;
   align-items: center;
   flex-direction: row;
-  background: #b8e994;
+  background: #ffdd59;
+  color: #1e272e;
 }
 
 /* COLOR DE LOS DEPARTAMENTOS */

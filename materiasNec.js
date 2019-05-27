@@ -1,18 +1,27 @@
 
-var materias = [];
+var materias;
 
-function start(){
+async function start(endpoint){
+
+    const response = await fetch(endpoint);
+    const data = await response.json();
+
+    materias.push(...data);
+
+}
+
+async function setearCarrera(carrera_json, carrera){
+
+    materias = [];
 
     const searchInput = document.querySelector('.search');
     searchInput.addEventListener('change', busqueda);
     searchInput.addEventListener('keyup', busqueda);
-    const endpoint = 'materiasInformatica.json';
-    fetch(endpoint)
-      .then(blob => blob.json())
-      .then(data => materias.push(...data));
-  
-    document.getElementById('seleccionarCarrera').innerHTML = 'Ingeniería Informática'
 
+    await start(carrera_json);
+
+    document.getElementById('seleccionarCarrera').innerHTML = carrera;
+  
 }
 
 function encontrarMateria(materiaBuscada, materias) {

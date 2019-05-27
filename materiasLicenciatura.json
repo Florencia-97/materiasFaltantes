@@ -198,9 +198,9 @@
     {
         "materia": "Análisis de Casos",
         "departamento": "opcionales",
-        "codigo":  "",
-        "creditos": 8,
-        "correlativas": ""
+        "codigo":  "91.35",
+        "creditos": 3,
+        "correlativas": "91.05"
     },
     {
         "materia": "Análisis Numérico I",

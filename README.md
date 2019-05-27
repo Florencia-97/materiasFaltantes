@@ -1,10 +1,14 @@
 # Materias faltantes
 
+### Facultad de Ingenieria (FIUBA)
+
 Nunca te preguntaste que podías cursar con las materias que ya tenías metidas? 
 
-Si te preguntas que necesitas para cursar esa materia que de la nada todos van a hacer, o querés saber cuantos créditos tenés y querés ver si te recibís antes de los 30 esta página te puede servir.
+Si te preguntas que necesitas para cursar esa materia que de la nada todos van a hacer, o querés saber cuantos créditos tenés y querés ver si te recibís antes de los 30, esta página te puede servir.
 
-Por ahora (pero por poco tiempo) unicamente para la carrera de Ingeniería en Informática de la Facultad de Ingenieria (FIUBA), vas a poder saber facilmente todas esas cosas.
+Por ahora para las carreras:
+* Ingeniería en Informática 
+* Licenciatura en Análisis de Sistemas
 
 https://florencia-97.github.io/materiasFaltantes/
 

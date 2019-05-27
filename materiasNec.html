@@ -19,7 +19,8 @@
         <button class="btn btn-primary dropdown-toggle" type="button" id="seleccionarCarrera" data-toggle="dropdown">Seleccionar Carrera</button>
         <span class="caret"></span></button>
         <ul class="dropdown-menu">
-          <li><a onclick="start()">Ingenieria Informática (1986)</a></li>
+          <li><a onclick="setearCarrera('materiasInformatica.json', this.innerHTML)">Ingenieria Informática (1986)</a></li>
+          <li><a onclick="setearCarrera('materiasLicenciatura.json', this.innerHTML)">Licenciatura en Sistemas (2014)</a></li>
         </ul>
       </div>
     </div>

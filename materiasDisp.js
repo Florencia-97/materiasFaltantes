@@ -38,13 +38,12 @@ function asignaturaPosible(asignatura, regex){
 
 //CARGA INICIAL DE INFO
 
-async function agregarMateriasIniciales(carrera_json){
+async function agregarMateriasIniciales(carrera_json, carrera){
 
   await start(carrera_json);
   
-  //Esto dps lo cambio cuando agrego más materias
-  document.getElementById('seleccionarCarrera').innerHTML = 'Ingeniería Informática'
-  //var sugerencias = document.querySelector('.sugerencias');
+  document.getElementById('seleccionarCarrera').innerHTML = carrera;
+  
   var realizadas = document.querySelector('.realizadas');
   realizadas.innerHTML = "";
 
