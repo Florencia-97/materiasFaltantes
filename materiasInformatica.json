@@ -57,55 +57,6 @@
         "correlativas": "61.08 62.03 63.01"
     },
     {
-        "materia": "Estructura Económica Argentina",
-        "departamento": "opcionales",
-        "codigo":  "71.18",
-        "creditos": 4,
-        "correlativas": ""
-    },
-    {
-        "materia": "Discreta",
-        "departamento": "opcionales",
-        "codigo":  "61.07",
-        "creditos": 6,
-        "correlativas": ""
-    },
-    {
-        "materia": "Teoría de Algoritmos 1",
-        "departamento": "opcionales",
-        "codigo":  "61.29",
-        "creditos": 6,
-        "correlativas": "61.07 75.41 "
-    },
-    {
-        "materia": "Ecuaciones Diferenciales Ordinarias",
-        "departamento": "opcionales",
-        "codigo":  "61.18",
-        "creditos": 6,
-        "correlativas": "61.03 61.08"
-    },
-    {
-        "materia": "Análisis Funcional",
-        "departamento": "opcionales",
-        "codigo":  "61.19",
-        "creditos": 6,
-        "correlativas": "61.10"
-    },
-    {
-        "materia": "Mecánica Racional",
-        "departamento": "opcionales",
-        "codigo":  "61.11",
-        "creditos": 4,
-        "correlativas": "61.10 62.01"
-    },
-    {
-        "materia": "Teoría de Leguaje",
-        "departamento": "opcionales",
-        "codigo":  "75.31",
-        "creditos": 4,
-        "correlativas": "75.41"
-    },
-    {
         "materia": "Algoritmos y Programación 1",
         "departamento": "computacion",
         "codigo":  "75.40",
@@ -370,5 +321,346 @@
         "codigo":  "78.05",
         "creditos": 4,
         "correlativas": ""
-    }
+    },
+    {
+        "materia": "Estructura Económica Argentina",
+        "departamento": "opcionales",
+        "codigo":  "71.18",
+        "creditos": 4,
+        "correlativas": ""
+    },
+    {
+        "materia": "Teoría de Leguaje",
+        "departamento": "opcionales",
+        "codigo":  "75.31",
+        "creditos": 4,
+        "correlativas": "75.41"
+    },
+    {
+        "materia": " Matemática Discreta ",
+        "departamento":"opcionales",
+        "codigo": "61.07",
+        "creditos": 6 ,
+        "correlativas": ""
+        },
+        {
+        "materia": "  Ecuaciones Diferenciales Ordinarias  ",
+        "departamento":"opcionales",
+        "codigo": "61.18",
+        "creditos": 6 ,
+        "correlativas": "61.03  61.08"
+        },
+
+        {
+        "materia": "  Análisis Funcional  ",
+        "departamento":"opcionales",
+        "codigo": "61.19",
+        "creditos": 6 ,
+        "correlativas": "61.10"
+        },
+
+        {
+        "materia": " Mecánica Racional  ",
+        "departamento":"opcionales",
+        "codigo": "62.11",
+        "creditos": 4 ,
+        "correlativas": "61.10  62.01"
+        },
+
+        {
+        "materia": " Circuitos Electrónicos I ",
+        "departamento":"opcionales",
+        "codigo": "66.08",
+        "creditos": 8 ,
+        "correlativas": "62.15  66.02"
+        },
+
+        {
+        "materia": " Laboratorio de Microcomputadoras ",
+        "departamento":"opcionales",
+        "codigo": "66.09",
+        "creditos": 6 ,
+        "correlativas": "66.02  66.70"
+        },
+
+        {
+        "materia": " Sistemas Digitales ",
+        "departamento":"opcionales",
+        "codigo": "66.17",
+        "creditos": 6 ,
+        "correlativas": "66.70"
+        },
+
+        {
+        "materia": " Teoría de Control I ",
+        "departamento":"opcionales",
+        "codigo": "66.18",
+        "creditos": 6 ,
+        "correlativas": "66.74"
+        },
+
+        {
+        "materia": " Circuitos de Pulsos ",
+        "departamento":"opcionales",
+        "codigo": "66.19",
+        "creditos": 6 ,
+        "correlativas": "66.08  66.70"
+        },
+
+        {
+        "materia": " Teoría de la Información y Codificación ",
+        "departamento":"opcionales",
+        "codigo": "66.24",
+        "creditos": 4 ,
+        "correlativas": "66.74  66.75"
+        },
+
+        {
+        "materia": " Arquitecturas Paralelas ",
+        "departamento":"opcionales",
+        "codigo": "66.26",
+        "creditos": 6 ,
+        "correlativas": "66.20"
+        },
+
+        {
+        "materia": " Robótica   ",
+        "departamento":"opcionales",
+        "codigo": "66.32",
+        "creditos": 6 ,
+        "correlativas": "62.11  66.18"
+        },
+
+        {
+        "materia": " Técnica Digital Avanzada ",
+        "departamento":"opcionales",
+        "codigo": "66.35",
+        "creditos": 6 ,
+        "correlativas": "61.07  66.17"
+        },
+
+        {
+        "materia": " Procesamiento del Habla ",
+        "departamento":"opcionales",
+        "codigo": "66.46",
+        "creditos": 6 ,
+        "correlativas": "66.74"
+        },
+
+        {
+        "materia": " Procesamiento de Imágenes ",
+        "departamento":"opcionales",
+        "codigo": "66.47",
+        "creditos": 6 ,
+        "correlativas": "61.09  66.74"
+        },
+
+        {
+        "materia": " Sistemas Biológicos ",
+        "departamento":"opcionales",
+        "codigo": "66.49",
+        "creditos": 6 ,
+        "correlativas": "66.74  63.01"
+        },
+
+        {
+        "materia": " Simulación de Sistemas de Control ",
+        "departamento":"opcionales",
+        "codigo": "66.55",
+        "creditos": 4 ,
+        "correlativas": "66.18"
+        },
+
+        {
+        "materia": " Redes Neuronales  ",
+        "departamento":"opcionales",
+        "codigo": "66.63",
+        "creditos": 6 ,
+        "correlativas": "66.74  66.75"
+        },
+
+        {
+        "materia": " Criptografía y Seguridad Informática ",
+        "departamento":"opcionales",
+        "codigo": "66.69",
+        "creditos": 6 ,
+        "correlativas": "75.43"
+        },
+
+        {
+        "materia": " Sistemas Gráficos ",
+        "departamento":"opcionales",
+        "codigo": "66.71",
+        "creditos": 6 ,
+        "correlativas": "61.10"
+        },
+
+        {
+        "materia": " Procesos Estocásticos ",
+        "departamento":"opcionales",
+        "codigo": "66.75",
+        "creditos": 6 ,
+        "correlativas": "61.03  61.09"
+        },
+
+        {
+        "materia": " Modelos y Optimización II ",
+        "departamento":"opcionales",
+        "codigo": "71.15",
+        "creditos": 6 ,
+        "correlativas": "61.09  71.14"
+        },
+
+        {
+        "materia": " Estructura Económica Argentina ",
+        "departamento":"opcionales",
+        "codigo": "71.18",
+        "creditos": 4 ,
+        "correlativas": ""
+        },
+
+        {
+        "materia": " Modelos y Optimización III ",
+        "departamento":"opcionales",
+        "codigo": "71.20",
+        "creditos": 6 ,
+        "correlativas": "71.15"
+        },
+
+        {
+        "materia": " Análisis y Resolución de Problemas ",
+        "departamento":"opcionales",
+        "codigo": "71.41",
+        "creditos": 6 ,
+        "correlativas": "71.15"
+        },
+
+        {
+        "materia": " Circuitos de Información en la Empresa ",
+        "departamento":"opcionales",
+        "codigo": "71.42",
+        "creditos": 4 ,
+        "correlativas": "71.46"
+        },
+
+        {
+        "materia": " Ingeniería Económica ",
+        "departamento":"opcionales",
+        "codigo": "71.46",
+        "creditos": 6 ,
+        "correlativas": "71.13"
+        },
+
+        {
+        "materia": " Lenguajes de Programación ",
+        "departamento":"opcionales",
+        "codigo": "75.16",
+        "creditos": 6 ,
+        "correlativas": "75.14"
+        },
+
+        {
+        "materia": " Simulación ",
+        "departamento":"opcionales",
+        "codigo": "75.26",
+        "creditos": 6 ,
+        "correlativas": "61.09"
+        },
+
+        {
+        "materia": " Teoría de Algoritmos I ",
+        "departamento":"opcionales",
+        "codigo": "75.29",
+        "creditos": 6 ,
+        "correlativas": "61.07  75.41"
+        },
+
+        {
+        "materia": " Teoría de Algoritmos II ",
+        "departamento":"opcionales",
+        "codigo": "75.30",
+        "creditos": 6 ,
+        "correlativas": "75.29"
+        },
+
+        {
+        "materia": " Teoría de Lenguaje ",
+        "departamento":"opcionales",
+        "codigo": "75.31",
+        "creditos": 4 ,
+        "correlativas": "75.41"
+        },
+
+        {
+        "materia": " Análisis Numérico II A ",
+        "departamento":"opcionales",
+        "codigo": "75.38",
+        "creditos": 6 ,
+        "correlativas": "75.52"
+        },
+
+        {
+        "materia": " Introducción a los Sist emas Inteligentes ",
+        "departamento":"opcionales",
+        "codigo": "75.50",
+        "creditos": 6 ,
+        "correlativas": "61.09  71.14"
+        },
+
+        {
+        "materia": " Técnicas de Producción de Software I ",
+        "departamento":"opcionales",
+        "codigo": "75.51",
+        "creditos": 4 ,
+        "correlativas": "75.15  75.52"
+        },
+
+        {
+        "materia": " Técnicas de Producción de Software II ",
+        "departamento":"opcionales",
+        "codigo": "75.53",
+        "creditos": 4 ,
+        "correlativas": "75.51"
+        },
+
+        {
+        "materia": " Técnicas de Producción de Software III ",
+        "departamento":"opcionales",
+        "codigo": "75.54",
+        "creditos": 4 ,
+        "correlativas": "75.48  75.53"
+        },
+
+        {
+        "materia": " Taller de Desarrollo de Proyectos III ",
+        "departamento":"opcionales",
+        "codigo": "75.55",
+        "creditos": 4 ,
+        "correlativas": "75.46  75.47"
+        },
+
+        {
+        "materia": " Organización de la Implantación y el Mantenimiento ",
+        "departamento":"opcionales",
+        "codigo": "75.56",
+        "creditos": 6 ,
+        "correlativas": "75.46  75.48"
+        },
+
+        {
+        "materia": " Modelos de Proceso de Desarrollo ",
+        "departamento":"opcionales",
+        "codigo": "75.57",
+        "creditos": 4 ,
+        "correlativas": "75.46  75.48"
+        },
+
+        {
+        "materia": " Evaluación de Proyectos y Manejo de Riesgos ",
+        "departamento":"opcionales",
+        "codigo": "75.58",
+        "creditos": 4 ,
+        "correlativas": "75.46  75.48"
+        }
+    
 ]
